@@ -10,5 +10,12 @@
       <jdbc-url>jdbc:sqlite:C:\Users\Admin\Documents\my_django_app\my_django_app\db.sqlite3</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="DataWepapp@data-wep-app.database.windows.net" uuid="01d2c8bd-d978-49b0-92fe-cbb67b835074">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://data-wep-app.database.windows.net:1433;database=DataWepapp</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

@@ -80,14 +80,13 @@ WSGI_APPLICATION = 'my_django_app.wsgi.application'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 DATABASES = {
     'default': {
-        'ENGINE': 'mssql',
-        'NAME': 'datawebapp',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': 'db.sqlite3',
         'USER': 'rula-eg',
         'PASSWORD': 'project5Pre',
         'HOST': 'data-wep-app.database.windows.net',
         'PORT': '1433',
         'OPTIONS': {
-            'driver': 'ODBC Driver 13 for SQL Server',
         },
     }
 }
