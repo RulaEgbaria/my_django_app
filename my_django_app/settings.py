@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_pyodbc',
-    'hello',
+    'hello.apps.HelloConfig',
 
 ]
 
@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'my_django_app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'db.sqlite3',
+        'NAME': ('DataWepapp.sqlite3'),
         'USER': 'rula-eg',
         'PASSWORD': 'project5Pre',
         'HOST': 'data-wep-app.database.windows.net',
@@ -117,7 +117,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Jerusalem'
 
 USE_I18N = True
 

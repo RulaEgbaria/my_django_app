@@ -30,4 +30,5 @@ urlpatterns = [
     path('visitor/', views.visitor, name='visitor'),
     path('login_user/sign_in/', views.sign_in, name='sign_in'),
     path('login_user/sign_up/', views.sign_up, name='sign_up'),
+
 ]
