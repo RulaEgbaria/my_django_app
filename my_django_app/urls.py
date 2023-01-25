@@ -17,18 +17,24 @@ from django.contrib import admin
 from django.urls import path
 
 from hello import views
-from hello.views import index
-from hello.views import login_user
-from hello.views import visitor
-from hello.views import sign_in
-from hello.views import sign_up
+# from hello.views import index
+# from hello.views import login_user
+# from hello.views import visitor
+# from hello.views import sign_in
+# from hello.views import sign_up
+# from hello.views import questionnaire
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name='index'),
     path('login_user/', views.login_user, name='login_user'),
     path('visitor/', views.visitor, name='visitor'),
+    path('questionnaire/', views.questionnaire, name='questionnaire'),
     path('login_user/sign_in/', views.sign_in, name='sign_in'),
     path('login_user/sign_up/', views.sign_up, name='sign_up'),
+
+
+
 
 ]

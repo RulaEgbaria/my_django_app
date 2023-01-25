@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_pyodbc',
     'hello.apps.HelloConfig',
+    # 'hello',
 
 ]
 
@@ -81,7 +82,7 @@ WSGI_APPLICATION = 'my_django_app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': ('DataWepapp.sqlite3'),
+        'NAME': 'db.sqlite3',
         'USER': 'rula-eg',
         'PASSWORD': 'project5Pre',
         'HOST': 'data-wep-app.database.windows.net',

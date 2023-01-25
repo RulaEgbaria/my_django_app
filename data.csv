@@ -1,0 +1,1401 @@
+term_id,langs,country,term,type,code_lang
+5,Afrikaans,"Cape Town,Western Cape,South Africa",Omgewing,Canonical Scientific Issues,af
+6,Afrikaans,"Cape Town,Western Cape,South Africa",Ekosisteem,Canonical Scientific Issues,af
+8,Afrikaans,"Cape Town,Western Cape,South Africa",Besoedeling,Canonical Scientific Issues,af
+12,Afrikaans,"Cape Town,Western Cape,South Africa",Swam,Canonical Scientific Issues,af
+13,Afrikaans,"Cape Town,Western Cape,South Africa",Soogdier,Canonical Scientific Issues,af
+16,Afrikaans,"Cape Town,Western Cape,South Africa",Oplossing,Canonical Scientific Issues,af
+20,Afrikaans,"Cape Town,Western Cape,South Africa",Atoom,Canonical Scientific Issues,af
+28,Afrikaans,"Cape Town,Western Cape,South Africa",Energie,Canonical Scientific Issues,af
+29,Afrikaans,"Cape Town,Western Cape,South Africa",Gewig,Canonical Scientific Issues,af
+35,Afrikaans,"Cape Town,Western Cape,South Africa",Sonnestelsel,Canonical Scientific Issues,af
+38,Afrikaans,"Cape Town,Western Cape,South Africa",Evolusie,Canonical Scientific Issues,af
+53,Afrikaans,"Cape Town,Western Cape,South Africa",Wanvoeding,Socio-Scientific Isuues,af
+54,Afrikaans,"Cape Town,Western Cape,South Africa",Voedselsekuriteit,Socio-Scientific Isuues,af
+56,Afrikaans,"Cape Town,Western Cape,South Africa",Kalorie,Socio-Scientific Isuues,af
+58,Afrikaans,"Cape Town,Western Cape,South Africa",Hernubare energie,Socio-Scientific Isuues,af
+59,Afrikaans,"Cape Town,Western Cape,South Africa",Klimaatsverandering,Socio-Scientific Isuues,af
+65,Afrikaans,"Cape Town,Western Cape,South Africa",Grondbesoedeling,Socio-Scientific Isuues,af
+66,Afrikaans,"Cape Town,Western Cape,South Africa",Kweekhuisgas,Socio-Scientific Isuues,af
+68,Afrikaans,"Cape Town,Western Cape,South Africa",Infeksie,Socio-Scientific Isuues,af
+70,Afrikaans,"Cape Town,Western Cape,South Africa",Vloed,Socio-Scientific Isuues,af
+71,Afrikaans,"Cape Town,Western Cape,South Africa",Droogte,Socio-Scientific Isuues,af
+39,Afrikaans,"Cape Town,Western Cape,South Africa",PKR,Novel Science and Technology Issues,af
+42,Afrikaans,"Cape Town,Western Cape,South Africa",mRNS,Novel Science and Technology Issues,af
+43,Afrikaans,"Cape Town,Western Cape,South Africa",genoom,Novel Science and Technology Issues,af
+44,Afrikaans,"Cape Town,Western Cape,South Africa",Mars,Novel Science and Technology Issues,af
+45,Afrikaans,"Cape Town,Western Cape,South Africa",asteroïdes,Novel Science and Technology Issues,af
+46,Afrikaans,"Cape Town,Western Cape,South Africa",CRISPR,Novel Science and Technology Issues,af
+48,Afrikaans,"Cape Town,Western Cape,South Africa",proteïenvou,Novel Science and Technology Issues,af
+49,Afrikaans,"Cape Town,Western Cape,South Africa",swartkolk,Novel Science and Technology Issues,af
+52,Afrikaans,"Cape Town,Western Cape,South Africa",Mutasie,Novel Science and Technology Issues,af
+87,Afrikaans,"Cape Town,Western Cape,South Africa",Outonome kar,Novel Science and Technology Issues,af
+73-B,Afrikaans,"Cape Town,Western Cape,South Africa",aardverwarming 'n klug,Conspiracy Theories,af
+74-B,Afrikaans,"Cape Town,Western Cape,South Africa",Klimaatsverandering 'n klug,Conspiracy Theories,af
+77-B,Afrikaans,"Cape Town,Western Cape,South Africa",entstowwe outisme,Conspiracy Theories,af
+79-B,Afrikaans,"Cape Town,Western Cape,South Africa",plat aarde,Conspiracy Theories,af
+80-B,Afrikaans,"Cape Town,Western Cape,South Africa",Maanlaanding vals,Conspiracy Theories,af
+5,Arabic,"Cairo,Cairo Governorate,Egypt",????,Canonical Scientific Issues,ar
+5,Arabic,"Jerusalem District,Israel",????,Canonical Scientific Issues,ar
+6,Arabic,"Cairo,Cairo Governorate,Egypt",???? ????,Canonical Scientific Issues,ar
+6,Arabic,"Jerusalem District,Israel",???? ????,Canonical Scientific Issues,ar
+8,Arabic,"Cairo,Cairo Governorate,Egypt",????,Canonical Scientific Issues,ar
+8,Arabic,"Jerusalem District,Israel",????,Canonical Scientific Issues,ar
+12,Arabic,"Cairo,Cairo Governorate,Egypt",???,Canonical Scientific Issues,ar
+12,Arabic,"Jerusalem District,Israel",???,Canonical Scientific Issues,ar
+13,Arabic,"Cairo,Cairo Governorate,Egypt",??????,Canonical Scientific Issues,ar
+13,Arabic,"Jerusalem District,Israel",??????,Canonical Scientific Issues,ar
+16,Arabic,"Cairo,Cairo Governorate,Egypt",?????,Canonical Scientific Issues,ar
+16,Arabic,"Jerusalem District,Israel",?????,Canonical Scientific Issues,ar
+20,Arabic,"Cairo,Cairo Governorate,Egypt",???,Canonical Scientific Issues,ar
+20,Arabic,"Jerusalem District,Israel",???,Canonical Scientific Issues,ar
+28,Arabic,"Cairo,Cairo Governorate,Egypt",????,Canonical Scientific Issues,ar
+28,Arabic,"Jerusalem District,Israel",????,Canonical Scientific Issues,ar
+29,Arabic,"Cairo,Cairo Governorate,Egypt",???,Canonical Scientific Issues,ar
+29,Arabic,"Jerusalem District,Israel",???,Canonical Scientific Issues,ar
+35,Arabic,"Cairo,Cairo Governorate,Egypt",???????? ???????,Canonical Scientific Issues,ar
+35,Arabic,"Jerusalem District,Israel",???????? ???????,Canonical Scientific Issues,ar
+38,Arabic,"Cairo,Cairo Governorate,Egypt",????,Canonical Scientific Issues,ar
+38,Arabic,"Jerusalem District,Israel",????,Canonical Scientific Issues,ar
+53,Arabic,"Cairo,Cairo Governorate,Egypt",??? ???????,Socio-Scientific Isuues,ar
+53,Arabic,"Jerusalem District,Israel",??? ???????,Socio-Scientific Isuues,ar
+54,Arabic,"Cairo,Cairo Governorate,Egypt",????? ???????,Socio-Scientific Isuues,ar
+54,Arabic,"Jerusalem District,Israel",????? ???????,Socio-Scientific Isuues,ar
+56,Arabic,"Cairo,Cairo Governorate,Egypt",???? ??????,Socio-Scientific Isuues,ar
+56,Arabic,"Jerusalem District,Israel",???? ??????,Socio-Scientific Isuues,ar
+58,Arabic,"Cairo,Cairo Governorate,Egypt",???? ??????,Socio-Scientific Isuues,ar
+58,Arabic,"Jerusalem District,Israel",???? ??????,Socio-Scientific Isuues,ar
+59,Arabic,"Cairo,Cairo Governorate,Egypt",???????? ???????,Socio-Scientific Isuues,ar
+59,Arabic,"Jerusalem District,Israel",???????? ???????,Socio-Scientific Isuues,ar
+65,Arabic,"Cairo,Cairo Governorate,Egypt",???? ??????,Socio-Scientific Isuues,ar
+65,Arabic,"Jerusalem District,Israel",???? ??????,Socio-Scientific Isuues,ar
+66,Arabic,"Cairo,Cairo Governorate,Egypt",????? ?????,Socio-Scientific Isuues,ar
+66,Arabic,"Jerusalem District,Israel",????? ?????,Socio-Scientific Isuues,ar
+68,Arabic,"Cairo,Cairo Governorate,Egypt",????,Socio-Scientific Isuues,ar
+68,Arabic,"Jerusalem District,Israel",????,Socio-Scientific Isuues,ar
+70,Arabic,"Cairo,Cairo Governorate,Egypt",???????,Socio-Scientific Isuues,ar
+70,Arabic,"Jerusalem District,Israel",???????,Socio-Scientific Isuues,ar
+71,Arabic,"Cairo,Cairo Governorate,Egypt",????,Socio-Scientific Isuues,ar
+71,Arabic,"Jerusalem District,Israel",????,Socio-Scientific Isuues,ar
+39,Arabic,"Cairo,Cairo Governorate,Egypt",????? ?????????? ????????,Novel Science and Technology Issues,ar
+39,Arabic,"Jerusalem District,Israel",????? ?????????? ????????,Novel Science and Technology Issues,ar
+42,Arabic,"Cairo,Cairo Governorate,Egypt",????? ?????? ?????? ???????,Novel Science and Technology Issues,ar
+42,Arabic,"Jerusalem District,Israel",????? ?????? ?????? ???????,Novel Science and Technology Issues,ar
+43,Arabic,"Cairo,Cairo Governorate,Egypt",???????,Novel Science and Technology Issues,ar
+43,Arabic,"Jerusalem District,Israel",???????,Novel Science and Technology Issues,ar
+44,Arabic,"Cairo,Cairo Governorate,Egypt",??????,Novel Science and Technology Issues,ar
+44,Arabic,"Jerusalem District,Israel",??????,Novel Science and Technology Issues,ar
+45,Arabic,"Cairo,Cairo Governorate,Egypt",?????????,Novel Science and Technology Issues,ar
+45,Arabic,"Jerusalem District,Israel",?????????,Novel Science and Technology Issues,ar
+46,Arabic,"Cairo,Cairo Governorate,Egypt",??????,Novel Science and Technology Issues,ar
+46,Arabic,"Jerusalem District,Israel",??????,Novel Science and Technology Issues,ar
+48,Arabic,"Cairo,Cairo Governorate,Egypt",???? ????????,Novel Science and Technology Issues,ar
+48,Arabic,"Jerusalem District,Israel",???? ????????,Novel Science and Technology Issues,ar
+49,Arabic,"Cairo,Cairo Governorate,Egypt",????? ??????,Novel Science and Technology Issues,ar
+49,Arabic,"Jerusalem District,Israel",????? ??????,Novel Science and Technology Issues,ar
+52,Arabic,"Cairo,Cairo Governorate,Egypt",????,Novel Science and Technology Issues,ar
+52,Arabic,"Jerusalem District,Israel",????,Novel Science and Technology Issues,ar
+87,Arabic,"Cairo,Cairo Governorate,Egypt",????? ????? ???????,Novel Science and Technology Issues,ar
+87,Arabic,"Jerusalem District,Israel",????? ????? ???????,Novel Science and Technology Issues,ar
+73-B,Arabic,"Cairo,Cairo Governorate,Egypt",???????? ??????? ????,Conspiracy Theories,ar
+73-B,Arabic,"Jerusalem District,Israel",???????? ??????? ????,Conspiracy Theories,ar
+74-B,Arabic,"Cairo,Cairo Governorate,Egypt",???? ?????? ????,Conspiracy Theories,ar
+74-B,Arabic,"Jerusalem District,Israel",???? ?????? ????,Conspiracy Theories,ar
+77-B,Arabic,"Cairo,Cairo Governorate,Egypt",???????? ???? ??????,Conspiracy Theories,ar
+77-B,Arabic,"Jerusalem District,Israel",???????? ???? ??????,Conspiracy Theories,ar
+79-B,Arabic,"Cairo,Cairo Governorate,Egypt",????? ?????,Conspiracy Theories,ar
+79-B,Arabic,"Jerusalem District,Israel",????? ?????,Conspiracy Theories,ar
+80-B,Arabic,"Cairo,Cairo Governorate,Egypt",?????? ??? ????? ????,Conspiracy Theories,ar
+80-B,Arabic,"Jerusalem District,Israel",?????? ??? ????? ????,Conspiracy Theories,ar
+5,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+5,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+5,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+5,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+6,Chinese,"Washington,District of Columbia,United States",????,Canonical Scientific Issues,zh
+6,Chinese,"Bangkok,Bangkok,Thailand",????,Canonical Scientific Issues,zh
+6,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Canonical Scientific Issues,zh
+6,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Canonical Scientific Issues,zh
+8,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+8,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+8,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+8,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+12,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+12,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+12,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+12,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+13,Chinese,"Washington,District of Columbia,United States",????,Canonical Scientific Issues,zh
+13,Chinese,"Bangkok,Bangkok,Thailand",????,Canonical Scientific Issues,zh
+13,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Canonical Scientific Issues,zh
+13,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Canonical Scientific Issues,zh
+16,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+16,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+16,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+16,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+20,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+20,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+20,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+20,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+28,Chinese,"Washington,District of Columbia,United States",?????,Canonical Scientific Issues,zh
+28,Chinese,"Bangkok,Bangkok,Thailand",?????,Canonical Scientific Issues,zh
+28,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",?????,Canonical Scientific Issues,zh
+28,Chinese,"Central Jakarta,Jakarta,Indonesia",?????,Canonical Scientific Issues,zh
+29,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+29,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+29,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+29,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+35,Chinese,"Washington,District of Columbia,United States",???,Canonical Scientific Issues,zh
+35,Chinese,"Bangkok,Bangkok,Thailand",???,Canonical Scientific Issues,zh
+35,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",???,Canonical Scientific Issues,zh
+35,Chinese,"Central Jakarta,Jakarta,Indonesia",???,Canonical Scientific Issues,zh
+38,Chinese,"Washington,District of Columbia,United States",??,Canonical Scientific Issues,zh
+38,Chinese,"Bangkok,Bangkok,Thailand",??,Canonical Scientific Issues,zh
+38,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Canonical Scientific Issues,zh
+38,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Canonical Scientific Issues,zh
+53,Chinese,"Washington,District of Columbia,United States",????,Socio-Scientific Isuues,zh
+53,Chinese,"Bangkok,Bangkok,Thailand",????,Socio-Scientific Isuues,zh
+53,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Socio-Scientific Isuues,zh
+53,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Socio-Scientific Isuues,zh
+54,Chinese,"Washington,District of Columbia,United States",????,Socio-Scientific Isuues,zh
+54,Chinese,"Bangkok,Bangkok,Thailand",????,Socio-Scientific Isuues,zh
+54,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Socio-Scientific Isuues,zh
+54,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Socio-Scientific Isuues,zh
+56,Chinese,"Washington,District of Columbia,United States",???,Socio-Scientific Isuues,zh
+56,Chinese,"Bangkok,Bangkok,Thailand",???,Socio-Scientific Isuues,zh
+56,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",???,Socio-Scientific Isuues,zh
+56,Chinese,"Central Jakarta,Jakarta,Indonesia",???,Socio-Scientific Isuues,zh
+58,Chinese,"Washington,District of Columbia,United States",?????,Socio-Scientific Isuues,zh
+58,Chinese,"Bangkok,Bangkok,Thailand",?????,Socio-Scientific Isuues,zh
+58,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",?????,Socio-Scientific Isuues,zh
+58,Chinese,"Central Jakarta,Jakarta,Indonesia",?????,Socio-Scientific Isuues,zh
+59,Chinese,"Washington,District of Columbia,United States",????,Socio-Scientific Isuues,zh
+59,Chinese,"Bangkok,Bangkok,Thailand",????,Socio-Scientific Isuues,zh
+59,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Socio-Scientific Isuues,zh
+59,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Socio-Scientific Isuues,zh
+65,Chinese,"Washington,District of Columbia,United States",????,Socio-Scientific Isuues,zh
+65,Chinese,"Bangkok,Bangkok,Thailand",????,Socio-Scientific Isuues,zh
+65,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Socio-Scientific Isuues,zh
+65,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Socio-Scientific Isuues,zh
+66,Chinese,"Washington,District of Columbia,United States",????,Socio-Scientific Isuues,zh
+66,Chinese,"Bangkok,Bangkok,Thailand",????,Socio-Scientific Isuues,zh
+66,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Socio-Scientific Isuues,zh
+66,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Socio-Scientific Isuues,zh
+68,Chinese,"Washington,District of Columbia,United States",??,Socio-Scientific Isuues,zh
+68,Chinese,"Bangkok,Bangkok,Thailand",??,Socio-Scientific Isuues,zh
+68,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Socio-Scientific Isuues,zh
+68,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Socio-Scientific Isuues,zh
+70,Chinese,"Washington,District of Columbia,United States",??,Socio-Scientific Isuues,zh
+70,Chinese,"Bangkok,Bangkok,Thailand",??,Socio-Scientific Isuues,zh
+70,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Socio-Scientific Isuues,zh
+70,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Socio-Scientific Isuues,zh
+71,Chinese,"Washington,District of Columbia,United States",??,Socio-Scientific Isuues,zh
+71,Chinese,"Bangkok,Bangkok,Thailand",??,Socio-Scientific Isuues,zh
+71,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Socio-Scientific Isuues,zh
+71,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Socio-Scientific Isuues,zh
+73-B,Chinese,"Washington,District of Columbia,United States",??????,Conspiracy theories,zh
+73-B,Chinese,"Bangkok,Bangkok,Thailand",??????,Conspiracy theories,zh
+73-B,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??????,Conspiracy theories,zh
+73-B,Chinese,"Central Jakarta,Jakarta,Indonesia",??????,Conspiracy theories,zh
+74-B,Chinese,"Washington,District of Columbia,United States",??????,Conspiracy theories,zh
+74-B,Chinese,"Bangkok,Bangkok,Thailand",??????,Conspiracy theories,zh
+74-B,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??????,Conspiracy theories,zh
+74-B,Chinese,"Central Jakarta,Jakarta,Indonesia",??????,Conspiracy theories,zh
+77-B,Chinese,"Washington,District of Columbia,United States",?? ???,Conspiracy theories,zh
+77-B,Chinese,"Bangkok,Bangkok,Thailand",?? ???,Conspiracy theories,zh
+77-B,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",?? ???,Conspiracy theories,zh
+77-B,Chinese,"Central Jakarta,Jakarta,Indonesia",?? ???,Conspiracy theories,zh
+79-B,Chinese,"Washington,District of Columbia,United States",???,Conspiracy theories,zh
+79-B,Chinese,"Bangkok,Bangkok,Thailand",???,Conspiracy theories,zh
+79-B,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",???,Conspiracy theories,zh
+79-B,Chinese,"Central Jakarta,Jakarta,Indonesia",???,Conspiracy theories,zh
+80-B,Chinese,"Washington,District of Columbia,United States",?? ??,Conspiracy theories,zh
+80-B,Chinese,"Bangkok,Bangkok,Thailand",?? ??,Conspiracy theories,zh
+80-B,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",?? ??,Conspiracy theories,zh
+80-B,Chinese,"Central Jakarta,Jakarta,Indonesia",?? ??,Conspiracy theories,zh
+39,Chinese,"Washington,District of Columbia,United States",PCR,Novel Science and Technology Issues,zh
+39,Chinese,"Bangkok,Bangkok,Thailand",PCR,Novel Science and Technology Issues,zh
+39,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",PCR,Novel Science and Technology Issues,zh
+39,Chinese,"Central Jakarta,Jakarta,Indonesia",PCR,Novel Science and Technology Issues,zh
+42,Chinese,"Washington,District of Columbia,United States",mRNA,Novel Science and Technology Issues,zh
+42,Chinese,"Bangkok,Bangkok,Thailand",mRNA,Novel Science and Technology Issues,zh
+42,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",mRNA,Novel Science and Technology Issues,zh
+42,Chinese,"Central Jakarta,Jakarta,Indonesia",mRNA,Novel Science and Technology Issues,zh
+43,Chinese,"Washington,District of Columbia,United States",???,Novel Science and Technology Issues,zh
+43,Chinese,"Bangkok,Bangkok,Thailand",???,Novel Science and Technology Issues,zh
+43,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",???,Novel Science and Technology Issues,zh
+43,Chinese,"Central Jakarta,Jakarta,Indonesia",???,Novel Science and Technology Issues,zh
+44,Chinese,"Washington,District of Columbia,United States",??,Novel Science and Technology Issues,zh
+44,Chinese,"Bangkok,Bangkok,Thailand",??,Novel Science and Technology Issues,zh
+44,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Novel Science and Technology Issues,zh
+44,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Novel Science and Technology Issues,zh
+45,Chinese,"Washington,District of Columbia,United States",???,Novel Science and Technology Issues,zh
+45,Chinese,"Bangkok,Bangkok,Thailand",???,Novel Science and Technology Issues,zh
+45,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",???,Novel Science and Technology Issues,zh
+45,Chinese,"Central Jakarta,Jakarta,Indonesia",???,Novel Science and Technology Issues,zh
+46,Chinese,"Washington,District of Columbia,United States",????,Novel Science and Technology Issues,zh
+46,Chinese,"Bangkok,Bangkok,Thailand",????,Novel Science and Technology Issues,zh
+46,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",????,Novel Science and Technology Issues,zh
+46,Chinese,"Central Jakarta,Jakarta,Indonesia",????,Novel Science and Technology Issues,zh
+48,Chinese,"Washington,District of Columbia,United States",?????,Novel Science and Technology Issues,zh
+48,Chinese,"Bangkok,Bangkok,Thailand",?????,Novel Science and Technology Issues,zh
+48,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",?????,Novel Science and Technology Issues,zh
+48,Chinese,"Central Jakarta,Jakarta,Indonesia",?????,Novel Science and Technology Issues,zh
+49,Chinese,"Washington,District of Columbia,United States",??,Novel Science and Technology Issues,zh
+49,Chinese,"Bangkok,Bangkok,Thailand",??,Novel Science and Technology Issues,zh
+49,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Novel Science and Technology Issues,zh
+49,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Novel Science and Technology Issues,zh
+52,Chinese,"Washington,District of Columbia,United States",??,Novel Science and Technology Issues,zh
+52,Chinese,"Bangkok,Bangkok,Thailand",??,Novel Science and Technology Issues,zh
+52,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??,Novel Science and Technology Issues,zh
+52,Chinese,"Central Jakarta,Jakarta,Indonesia",??,Novel Science and Technology Issues,zh
+87,Chinese,"Washington,District of Columbia,United States",??????,Novel Science and Technology Issues,zh
+87,Chinese,"Bangkok,Bangkok,Thailand",??????,Novel Science and Technology Issues,zh
+87,Chinese,"Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia",??????,Novel Science and Technology Issues,zh
+87,Chinese,"Central Jakarta,Jakarta,Indonesia",??????,Novel Science and Technology Issues,zh
+5,English,"Washington,District of Columbia,United States",Environment,Canonical Scientific Issues,en
+5,English,"London,England,United Kingdom",Environment,Canonical Scientific Issues,en
+5,English,"Abuja,Federal Capital Territory,Nigeria",Environment,Canonical Scientific Issues,en
+5,English,"Manila,Metro Manila,Philippines",Environment,Canonical Scientific Issues,en
+5,English,"New Delhi,Delhi,India",Environment,Canonical Scientific Issues,en
+6,English,"Washington,District of Columbia,United States",Ecosystem,Canonical Scientific Issues,en
+6,English,"London,England,United Kingdom",Ecosystem,Canonical Scientific Issues,en
+6,English,"Abuja,Federal Capital Territory,Nigeria",Ecosystem,Canonical Scientific Issues,en
+6,English,"Manila,Metro Manila,Philippines",Ecosystem,Canonical Scientific Issues,en
+6,English,"New Delhi,Delhi,India",Ecosystem,Canonical Scientific Issues,en
+8,English,"Washington,District of Columbia,United States",Pollution,Canonical Scientific Issues,en
+8,English,"London,England,United Kingdom",Pollution,Canonical Scientific Issues,en
+8,English,"Abuja,Federal Capital Territory,Nigeria",Pollution,Canonical Scientific Issues,en
+8,English,"Manila,Metro Manila,Philippines",Pollution,Canonical Scientific Issues,en
+8,English,"New Delhi,Delhi,India",Pollution,Canonical Scientific Issues,en
+12,English,"Washington,District of Columbia,United States",Fungus,Canonical Scientific Issues,en
+12,English,"London,England,United Kingdom",Fungus,Canonical Scientific Issues,en
+12,English,"Abuja,Federal Capital Territory,Nigeria",Fungus,Canonical Scientific Issues,en
+12,English,"Manila,Metro Manila,Philippines",Fungus,Canonical Scientific Issues,en
+12,English,"New Delhi,Delhi,India",Fungus,Canonical Scientific Issues,en
+13,English,"Washington,District of Columbia,United States",Mammal,Canonical Scientific Issues,en
+13,English,"London,England,United Kingdom",Mammal,Canonical Scientific Issues,en
+13,English,"Abuja,Federal Capital Territory,Nigeria",Mammal,Canonical Scientific Issues,en
+13,English,"Manila,Metro Manila,Philippines",Mammal,Canonical Scientific Issues,en
+13,English,"New Delhi,Delhi,India",Mammal,Canonical Scientific Issues,en
+16,English,"Washington,District of Columbia,United States",Solution,Canonical Scientific Issues,en
+16,English,"London,England,United Kingdom",Solution,Canonical Scientific Issues,en
+16,English,"Abuja,Federal Capital Territory,Nigeria",Solution,Canonical Scientific Issues,en
+16,English,"Manila,Metro Manila,Philippines",Solution,Canonical Scientific Issues,en
+16,English,"New Delhi,Delhi,India",Solution,Canonical Scientific Issues,en
+20,English,"Washington,District of Columbia,United States",Atom,Canonical Scientific Issues,en
+20,English,"London,England,United Kingdom",Atom,Canonical Scientific Issues,en
+20,English,"Abuja,Federal Capital Territory,Nigeria",Atom,Canonical Scientific Issues,en
+20,English,"Manila,Metro Manila,Philippines",Atom,Canonical Scientific Issues,en
+20,English,"New Delhi,Delhi,India",Atom,Canonical Scientific Issues,en
+28,English,"Washington,District of Columbia,United States",Energy,Canonical Scientific Issues,en
+28,English,"London,England,United Kingdom",Energy,Canonical Scientific Issues,en
+28,English,"Abuja,Federal Capital Territory,Nigeria",Energy,Canonical Scientific Issues,en
+28,English,"Manila,Metro Manila,Philippines",Energy,Canonical Scientific Issues,en
+28,English,"New Delhi,Delhi,India",Energy,Canonical Scientific Issues,en
+29,English,"Washington,District of Columbia,United States",Weight,Canonical Scientific Issues,en
+29,English,"London,England,United Kingdom",Weight,Canonical Scientific Issues,en
+29,English,"Abuja,Federal Capital Territory,Nigeria",Weight,Canonical Scientific Issues,en
+29,English,"Manila,Metro Manila,Philippines",Weight,Canonical Scientific Issues,en
+29,English,"New Delhi,Delhi,India",Weight,Canonical Scientific Issues,en
+35,English,"Washington,District of Columbia,United States",Solar system,Canonical Scientific Issues,en
+35,English,"London,England,United Kingdom",Solar system,Canonical Scientific Issues,en
+35,English,"Abuja,Federal Capital Territory,Nigeria",Solar system,Canonical Scientific Issues,en
+35,English,"Manila,Metro Manila,Philippines",Solar system,Canonical Scientific Issues,en
+35,English,"New Delhi,Delhi,India",Solar system,Canonical Scientific Issues,en
+38,English,"Washington,District of Columbia,United States",Evolution,Canonical Scientific Issues,en
+38,English,"London,England,United Kingdom",Evolution,Canonical Scientific Issues,en
+38,English,"Abuja,Federal Capital Territory,Nigeria",Evolution,Canonical Scientific Issues,en
+38,English,"Manila,Metro Manila,Philippines",Evolution,Canonical Scientific Issues,en
+38,English,"New Delhi,Delhi,India",Evolution,Canonical Scientific Issues,en
+53,English,"Washington,District of Columbia,United States",Malnutrition,Socio-Scientific Isuues,en
+53,English,"London,England,United Kingdom",Malnutrition,Socio-Scientific Isuues,en
+53,English,"Abuja,Federal Capital Territory,Nigeria",Malnutrition,Socio-Scientific Isuues,en
+53,English,"Manila,Metro Manila,Philippines",Malnutrition,Socio-Scientific Isuues,en
+53,English,"New Delhi,Delhi,India",Malnutrition,Socio-Scientific Isuues,en
+54,English,"Washington,District of Columbia,United States",Food Security,Socio-Scientific Isuues,en
+54,English,"London,England,United Kingdom",Food Security,Socio-Scientific Isuues,en
+54,English,"Abuja,Federal Capital Territory,Nigeria",Food Security,Socio-Scientific Isuues,en
+54,English,"Manila,Metro Manila,Philippines",Food Security,Socio-Scientific Isuues,en
+54,English,"New Delhi,Delhi,India",Food Security,Socio-Scientific Isuues,en
+56,English,"Washington,District of Columbia,United States",Calorie,Socio-Scientific Isuues,en
+56,English,"London,England,United Kingdom",Calorie,Socio-Scientific Isuues,en
+56,English,"Abuja,Federal Capital Territory,Nigeria",Calorie,Socio-Scientific Isuues,en
+56,English,"Manila,Metro Manila,Philippines",Calorie,Socio-Scientific Isuues,en
+56,English,"New Delhi,Delhi,India",Calorie,Socio-Scientific Isuues,en
+58,English,"Washington,District of Columbia,United States",Renewable Energy,Socio-Scientific Isuues,en
+58,English,"London,England,United Kingdom",Renewable Energy,Socio-Scientific Isuues,en
+58,English,"Abuja,Federal Capital Territory,Nigeria",Renewable Energy,Socio-Scientific Isuues,en
+58,English,"Manila,Metro Manila,Philippines",Renewable Energy,Socio-Scientific Isuues,en
+58,English,"New Delhi,Delhi,India",Renewable Energy,Socio-Scientific Isuues,en
+59,English,"Washington,District of Columbia,United States",Climate change,Socio-Scientific Isuues,en
+59,English,"London,England,United Kingdom",Climate change,Socio-Scientific Isuues,en
+59,English,"Abuja,Federal Capital Territory,Nigeria",Climate change,Socio-Scientific Isuues,en
+59,English,"Manila,Metro Manila,Philippines",Climate change,Socio-Scientific Isuues,en
+59,English,"New Delhi,Delhi,India",Climate change,Socio-Scientific Isuues,en
+65,English,"Washington,District of Columbia,United States",Soil contamination,Socio-Scientific Isuues,en
+65,English,"London,England,United Kingdom",Soil contamination,Socio-Scientific Isuues,en
+65,English,"Abuja,Federal Capital Territory,Nigeria",Soil contamination,Socio-Scientific Isuues,en
+65,English,"Manila,Metro Manila,Philippines",Soil contamination,Socio-Scientific Isuues,en
+65,English,"New Delhi,Delhi,India",Soil contamination,Socio-Scientific Isuues,en
+66,English,"Washington,District of Columbia,United States",Greenhouse gas,Socio-Scientific Isuues,en
+66,English,"London,England,United Kingdom",Greenhouse gas,Socio-Scientific Isuues,en
+66,English,"Abuja,Federal Capital Territory,Nigeria",Greenhouse gas,Socio-Scientific Isuues,en
+66,English,"Manila,Metro Manila,Philippines",Greenhouse gas,Socio-Scientific Isuues,en
+66,English,"New Delhi,Delhi,India",Greenhouse gas,Socio-Scientific Isuues,en
+68,English,"Washington,District of Columbia,United States",Infection,Socio-Scientific Isuues,en
+68,English,"London,England,United Kingdom",Infection,Socio-Scientific Isuues,en
+68,English,"Abuja,Federal Capital Territory,Nigeria",Infection,Socio-Scientific Isuues,en
+68,English,"Manila,Metro Manila,Philippines",Infection,Socio-Scientific Isuues,en
+68,English,"New Delhi,Delhi,India",Infection,Socio-Scientific Isuues,en
+70,English,"Washington,District of Columbia,United States",Flood,Socio-Scientific Isuues,en
+70,English,"London,England,United Kingdom",Flood,Socio-Scientific Isuues,en
+70,English,"Abuja,Federal Capital Territory,Nigeria",Flood,Socio-Scientific Isuues,en
+70,English,"Manila,Metro Manila,Philippines",Flood,Socio-Scientific Isuues,en
+70,English,"New Delhi,Delhi,India",Flood,Socio-Scientific Isuues,en
+71,English,"Washington,District of Columbia,United States",Drought,Socio-Scientific Isuues,en
+71,English,"London,England,United Kingdom",Drought,Socio-Scientific Isuues,en
+71,English,"Abuja,Federal Capital Territory,Nigeria",Drought,Socio-Scientific Isuues,en
+71,English,"Manila,Metro Manila,Philippines",Drought,Socio-Scientific Isuues,en
+71,English,"New Delhi,Delhi,India",Drought,Socio-Scientific Isuues,en
+39,English,"Washington,District of Columbia,United States",PCR,Novel Science and Technology Issues,en
+39,English,"London,England,United Kingdom",PCR,Novel Science and Technology Issues,en
+39,English,"Abuja,Federal Capital Territory,Nigeria",PCR,Novel Science and Technology Issues,en
+39,English,"Manila,Metro Manila,Philippines",PCR,Novel Science and Technology Issues,en
+39,English,"New Delhi,Delhi,India",PCR,Novel Science and Technology Issues,en
+42,English,"Washington,District of Columbia,United States",mRNA,Novel Science and Technology Issues,en
+42,English,"London,England,United Kingdom",mRNA,Novel Science and Technology Issues,en
+42,English,"Abuja,Federal Capital Territory,Nigeria",mRNA,Novel Science and Technology Issues,en
+42,English,"Manila,Metro Manila,Philippines",mRNA,Novel Science and Technology Issues,en
+42,English,"New Delhi,Delhi,India",mRNA,Novel Science and Technology Issues,en
+43,English,"Washington,District of Columbia,United States",genome,Novel Science and Technology Issues,en
+43,English,"London,England,United Kingdom",genome,Novel Science and Technology Issues,en
+43,English,"Abuja,Federal Capital Territory,Nigeria",genome,Novel Science and Technology Issues,en
+43,English,"Manila,Metro Manila,Philippines",genome,Novel Science and Technology Issues,en
+43,English,"New Delhi,Delhi,India",genome,Novel Science and Technology Issues,en
+44,English,"Washington,District of Columbia,United States",Mars,Novel Science and Technology Issues,en
+44,English,"London,England,United Kingdom",Mars,Novel Science and Technology Issues,en
+44,English,"Abuja,Federal Capital Territory,Nigeria",Mars,Novel Science and Technology Issues,en
+44,English,"Manila,Metro Manila,Philippines",Mars,Novel Science and Technology Issues,en
+44,English,"New Delhi,Delhi,India",Mars,Novel Science and Technology Issues,en
+45,English,"Washington,District of Columbia,United States",asteroids,Novel Science and Technology Issues,en
+45,English,"London,England,United Kingdom",asteroids,Novel Science and Technology Issues,en
+45,English,"Abuja,Federal Capital Territory,Nigeria",asteroids,Novel Science and Technology Issues,en
+45,English,"Manila,Metro Manila,Philippines",asteroids,Novel Science and Technology Issues,en
+45,English,"New Delhi,Delhi,India",asteroids,Novel Science and Technology Issues,en
+46,English,"Washington,District of Columbia,United States",CRISPR,Novel Science and Technology Issues,en
+46,English,"London,England,United Kingdom",CRISPR,Novel Science and Technology Issues,en
+46,English,"Abuja,Federal Capital Territory,Nigeria",CRISPR,Novel Science and Technology Issues,en
+46,English,"Manila,Metro Manila,Philippines",CRISPR,Novel Science and Technology Issues,en
+46,English,"New Delhi,Delhi,India",CRISPR,Novel Science and Technology Issues,en
+48,English,"Washington,District of Columbia,United States",protein folding,Novel Science and Technology Issues,en
+48,English,"London,England,United Kingdom",protein folding,Novel Science and Technology Issues,en
+48,English,"Abuja,Federal Capital Territory,Nigeria",protein folding,Novel Science and Technology Issues,en
+48,English,"Manila,Metro Manila,Philippines",protein folding,Novel Science and Technology Issues,en
+48,English,"New Delhi,Delhi,India",protein folding,Novel Science and Technology Issues,en
+49,English,"Washington,District of Columbia,United States",black hole,Novel Science and Technology Issues,en
+49,English,"London,England,United Kingdom",black hole,Novel Science and Technology Issues,en
+49,English,"Abuja,Federal Capital Territory,Nigeria",black hole,Novel Science and Technology Issues,en
+49,English,"Manila,Metro Manila,Philippines",black hole,Novel Science and Technology Issues,en
+49,English,"New Delhi,Delhi,India",black hole,Novel Science and Technology Issues,en
+52,English,"Washington,District of Columbia,United States",Mutation,Novel Science and Technology Issues,en
+52,English,"London,England,United Kingdom",Mutation,Novel Science and Technology Issues,en
+52,English,"Abuja,Federal Capital Territory,Nigeria",Mutation,Novel Science and Technology Issues,en
+52,English,"Manila,Metro Manila,Philippines",Mutation,Novel Science and Technology Issues,en
+52,English,"New Delhi,Delhi,India",Mutation,Novel Science and Technology Issues,en
+87,English,"Washington,District of Columbia,United States",Autonomic car,Novel Science and Technology Issues,en
+87,English,"London,England,United Kingdom",Autonomic car,Novel Science and Technology Issues,en
+87,English,"Abuja,Federal Capital Territory,Nigeria",Autonomic car,Novel Science and Technology Issues,en
+87,English,"Manila,Metro Manila,Philippines",Autonomic car,Novel Science and Technology Issues,en
+87,English,"New Delhi,Delhi,India",Autonomic car,Novel Science and Technology Issues,en
+73-B,English,"Washington,District of Columbia,United States",global warming a hoax,Conspiracy Theories,en
+73-B,English,"London,England,United Kingdom",global warming a hoax,Conspiracy Theories,en
+73-B,English,"Abuja,Federal Capital Territory,Nigeria",global warming a hoax,Conspiracy Theories,en
+73-B,English,"Manila,Metro Manila,Philippines",global warming a hoax,Conspiracy Theories,en
+73-B,English,"New Delhi,Delhi,India",global warming a hoax,Conspiracy Theories,en
+74-B,English,"Washington,District of Columbia,United States",climate change a hoax,Conspiracy Theories,en
+74-B,English,"London,England,United Kingdom",climate change a hoax,Conspiracy Theories,en
+74-B,English,"Abuja,Federal Capital Territory,Nigeria",climate change a hoax,Conspiracy Theories,en
+74-B,English,"Manila,Metro Manila,Philippines",climate change a hoax,Conspiracy Theories,en
+74-B,English,"New Delhi,Delhi,India",climate change a hoax,Conspiracy Theories,en
+77-B,English,"Washington,District of Columbia,United States",vaccines autism,Conspiracy Theories,en
+77-B,English,"London,England,United Kingdom",vaccines autism,Conspiracy Theories,en
+77-B,English,"Abuja,Federal Capital Territory,Nigeria",vaccines autism,Conspiracy Theories,en
+77-B,English,"Manila,Metro Manila,Philippines",vaccines autism,Conspiracy Theories,en
+77-B,English,"New Delhi,Delhi,India",vaccines autism,Conspiracy Theories,en
+79-B,English,"Washington,District of Columbia,United States",flat earth,Conspiracy Theories,en
+79-B,English,"London,England,United Kingdom",flat earth,Conspiracy Theories,en
+79-B,English,"Abuja,Federal Capital Territory,Nigeria",flat earth,Conspiracy Theories,en
+79-B,English,"Manila,Metro Manila,Philippines",flat earth,Conspiracy Theories,en
+79-B,English,"New Delhi,Delhi,India",flat earth,Conspiracy Theories,en
+80-B,English,"Washington,District of Columbia,United States",Moon landing fake,Conspiracy Theories,en
+80-B,English,"London,England,United Kingdom",Moon landing fake,Conspiracy Theories,en
+80-B,English,"Abuja,Federal Capital Territory,Nigeria",Moon landing fake,Conspiracy Theories,en
+80-B,English,"Manila,Metro Manila,Philippines",Moon landing fake,Conspiracy Theories,en
+80-B,English,"New Delhi,Delhi,India",Moon landing fake,Conspiracy Theories,en
+5,French,"Kinshasa,Democratic Republic of the Congo",Environnement,Canonical Scientific Issues,fr
+5,French,"Paris,Paris,Ile-de-France,France",Environnement,Canonical Scientific Issues,fr
+6,French,"Kinshasa,Democratic Republic of the Congo",Écosystème,Canonical Scientific Issues,fr
+6,French,"Paris,Paris,Ile-de-France,France",Écosystème,Canonical Scientific Issues,fr
+8,French,"Kinshasa,Democratic Republic of the Congo",Pollution,Canonical Scientific Issues,fr
+8,French,"Paris,Paris,Ile-de-France,France",Pollution,Canonical Scientific Issues,fr
+12,French,"Kinshasa,Democratic Republic of the Congo",Fungi,Canonical Scientific Issues,fr
+12,French,"Paris,Paris,Ile-de-France,France",Fungi,Canonical Scientific Issues,fr
+13,French,"Kinshasa,Democratic Republic of the Congo",Mammifère,Canonical Scientific Issues,fr
+13,French,"Paris,Paris,Ile-de-France,France",Mammifère,Canonical Scientific Issues,fr
+16,French,"Kinshasa,Democratic Republic of the Congo",Solution,Canonical Scientific Issues,fr
+16,French,"Paris,Paris,Ile-de-France,France",Solution,Canonical Scientific Issues,fr
+20,French,"Kinshasa,Democratic Republic of the Congo",Atome,Canonical Scientific Issues,fr
+20,French,"Paris,Paris,Ile-de-France,France",Atome,Canonical Scientific Issues,fr
+28,French,"Kinshasa,Democratic Republic of the Congo",Énergie,Canonical Scientific Issues,fr
+28,French,"Paris,Paris,Ile-de-France,France",Énergie,Canonical Scientific Issues,fr
+29,French,"Kinshasa,Democratic Republic of the Congo",Poids,Canonical Scientific Issues,fr
+29,French,"Paris,Paris,Ile-de-France,France",Poids,Canonical Scientific Issues,fr
+35,French,"Kinshasa,Democratic Republic of the Congo",Système solaire,Canonical Scientific Issues,fr
+35,French,"Paris,Paris,Ile-de-France,France",Système solaire,Canonical Scientific Issues,fr
+38,French,"Kinshasa,Democratic Republic of the Congo",Évolution,Canonical Scientific Issues,fr
+38,French,"Paris,Paris,Ile-de-France,France",Évolution,Canonical Scientific Issues,fr
+53,French,"Kinshasa,Democratic Republic of the Congo",Malnutrition,Socio-Scientific Isuues,fr
+53,French,"Paris,Paris,Ile-de-France,France",Malnutrition,Socio-Scientific Isuues,fr
+54,French,"Kinshasa,Democratic Republic of the Congo",Sécurité alimentaire,Socio-Scientific Isuues,fr
+54,French,"Paris,Paris,Ile-de-France,France",Sécurité alimentaire,Socio-Scientific Isuues,fr
+56,French,"Kinshasa,Democratic Republic of the Congo",Calorie,Socio-Scientific Isuues,fr
+56,French,"Paris,Paris,Ile-de-France,France",Calorie,Socio-Scientific Isuues,fr
+58,French,"Kinshasa,Democratic Republic of the Congo",Énergie renouvelable,Socio-Scientific Isuues,fr
+58,French,"Paris,Paris,Ile-de-France,France",Énergie renouvelable,Socio-Scientific Isuues,fr
+59,French,"Kinshasa,Democratic Republic of the Congo",Changement climatique,Socio-Scientific Isuues,fr
+59,French,"Paris,Paris,Ile-de-France,France",Changement climatique,Socio-Scientific Isuues,fr
+65,French,"Kinshasa,Democratic Republic of the Congo",Pollution du sol,Socio-Scientific Isuues,fr
+65,French,"Paris,Paris,Ile-de-France,France",Pollution du sol,Socio-Scientific Isuues,fr
+66,French,"Kinshasa,Democratic Republic of the Congo",Gaz à effet de serre,Socio-Scientific Isuues,fr
+66,French,"Paris,Paris,Ile-de-France,France",Gaz à effet de serre,Socio-Scientific Isuues,fr
+68,French,"Kinshasa,Democratic Republic of the Congo",Infection,Socio-Scientific Isuues,fr
+68,French,"Paris,Paris,Ile-de-France,France",Infection,Socio-Scientific Isuues,fr
+70,French,"Kinshasa,Democratic Republic of the Congo",Inondation,Socio-Scientific Isuues,fr
+70,French,"Paris,Paris,Ile-de-France,France",Inondation,Socio-Scientific Isuues,fr
+71,French,"Kinshasa,Democratic Republic of the Congo",Sécheresse,Socio-Scientific Isuues,fr
+71,French,"Paris,Paris,Ile-de-France,France",Sécheresse,Socio-Scientific Isuues,fr
+39,French,"Kinshasa,Democratic Republic of the Congo",PCR,Novel Science and Technology Issues,fr
+39,French,"Paris,Paris,Ile-de-France,France",PCR,Novel Science and Technology Issues,fr
+42,French,"Kinshasa,Democratic Republic of the Congo",ARN messager,Novel Science and Technology Issues,fr
+42,French,"Paris,Paris,Ile-de-France,France",ARN messager,Novel Science and Technology Issues,fr
+43,French,"Kinshasa,Democratic Republic of the Congo",génome,Novel Science and Technology Issues,fr
+43,French,"Paris,Paris,Ile-de-France,France",génome,Novel Science and Technology Issues,fr
+44,French,"Kinshasa,Democratic Republic of the Congo",Mars,Novel Science and Technology Issues,fr
+44,French,"Paris,Paris,Ile-de-France,France",Mars,Novel Science and Technology Issues,fr
+45,French,"Kinshasa,Democratic Republic of the Congo",Astéroïdes,Novel Science and Technology Issues,fr
+45,French,"Paris,Paris,Ile-de-France,France",Astéroïdes,Novel Science and Technology Issues,fr
+46,French,"Kinshasa,Democratic Republic of the Congo",CRISPR,Novel Science and Technology Issues,fr
+46,French,"Paris,Paris,Ile-de-France,France",CRISPR,Novel Science and Technology Issues,fr
+48,French,"Kinshasa,Democratic Republic of the Congo",repliement des protéines,Novel Science and Technology Issues,fr
+48,French,"Paris,Paris,Ile-de-France,France",repliement des protéines,Novel Science and Technology Issues,fr
+49,French,"Kinshasa,Democratic Republic of the Congo",trou noir,Novel Science and Technology Issues,fr
+49,French,"Paris,Paris,Ile-de-France,France",trou noir,Novel Science and Technology Issues,fr
+52,French,"Kinshasa,Democratic Republic of the Congo",mutations,Novel Science and Technology Issues,fr
+52,French,"Paris,Paris,Ile-de-France,France",mutations,Novel Science and Technology Issues,fr
+87,French,"Kinshasa,Democratic Republic of the Congo",Véhicule Autonome,Novel Science and Technology Issues,fr
+87,French,"Paris,Paris,Ile-de-France,France",Véhicule Autonome,Novel Science and Technology Issues,fr
+73-B,French,"Kinshasa,Democratic Republic of the Congo",réchauffement climatique faux,Conspiracy Theories,fr
+73-B,French,"Paris,Paris,Ile-de-France,France",réchauffement climatique faux,Conspiracy Theories,fr
+74-B,French,"Kinshasa,Democratic Republic of the Congo",changement climatique faux,Conspiracy Theories,fr
+74-B,French,"Paris,Paris,Ile-de-France,France",changement climatique faux,Conspiracy Theories,fr
+77-B,French,"Kinshasa,Democratic Republic of the Congo",vaccins autisme,Conspiracy Theories,fr
+77-B,French,"Paris,Paris,Ile-de-France,France",vaccins autisme,Conspiracy Theories,fr
+79-B,French,"Kinshasa,Democratic Republic of the Congo",terre plate,Conspiracy Theories,fr
+79-B,French,"Paris,Paris,Ile-de-France,France",terre plate,Conspiracy Theories,fr
+80-B,French,"Kinshasa,Democratic Republic of the Congo",L’homme n’a jamais marché sur la lune,Conspiracy Theories,fr
+80-B,French,"Paris,Paris,Ile-de-France,France",L’homme n’a jamais marché sur la lune,Conspiracy Theories,fr
+5,German,"Berlin,Berlin,Germany",Umwelt,Canonical Scientific Issues,de
+6,German,"Berlin,Berlin,Germany",Ökosystem,Canonical Scientific Issues,de
+8,German,"Berlin,Berlin,Germany",Verschmutzung,Canonical Scientific Issues,de
+12,German,"Berlin,Berlin,Germany",Pilz,Canonical Scientific Issues,de
+13,German,"Berlin,Berlin,Germany",Säugetier,Canonical Scientific Issues,de
+16,German,"Berlin,Berlin,Germany",Lösung,Canonical Scientific Issues,de
+20,German,"Berlin,Berlin,Germany",Atom,Canonical Scientific Issues,de
+28,German,"Berlin,Berlin,Germany",Energie,Canonical Scientific Issues,de
+29,German,"Berlin,Berlin,Germany",Gewicht,Canonical Scientific Issues,de
+35,German,"Berlin,Berlin,Germany",Sonnensystem,Canonical Scientific Issues,de
+38,German,"Berlin,Berlin,Germany",Evolution,Canonical Scientific Issues,de
+53,German,"Berlin,Berlin,Germany",Mangelernährung,Socio-Scientific Isuues,de
+54,German,"Berlin,Berlin,Germany",Ernährungssicherung,Socio-Scientific Isuues,de
+56,German,"Berlin,Berlin,Germany",Kalorie,Socio-Scientific Isuues,de
+58,German,"Berlin,Berlin,Germany",erneuerbare Energie,Socio-Scientific Isuues,de
+59,German,"Berlin,Berlin,Germany",Klimawandel,Socio-Scientific Isuues,de
+65,German,"Berlin,Berlin,Germany",Bodenkontaminierung,Socio-Scientific Isuues,de
+66,German,"Berlin,Berlin,Germany",Treibhausgas,Socio-Scientific Isuues,de
+68,German,"Berlin,Berlin,Germany",Infektion,Socio-Scientific Isuues,de
+70,German,"Berlin,Berlin,Germany",Flut,Socio-Scientific Isuues,de
+71,German,"Berlin,Berlin,Germany",Dürre,Socio-Scientific Isuues,de
+39,German,"Berlin,Berlin,Germany",PCR,Novel Science and Technology Issues,de
+42,German,"Berlin,Berlin,Germany",mRNA,Novel Science and Technology Issues,de
+43,German,"Berlin,Berlin,Germany",Genom,Novel Science and Technology Issues,de
+44,German,"Berlin,Berlin,Germany",Mars,Novel Science and Technology Issues,de
+45,German,"Berlin,Berlin,Germany",Astroide,Novel Science and Technology Issues,de
+46,German,"Berlin,Berlin,Germany",CRISPR,Novel Science and Technology Issues,de
+48,German,"Berlin,Berlin,Germany",protein faltung,Novel Science and Technology Issues,de
+49,German,"Berlin,Berlin,Germany",schwarze Löcher,Novel Science and Technology Issues,de
+52,German,"Berlin,Berlin,Germany",mutation,Novel Science and Technology Issues,de
+87,German,"Berlin,Berlin,Germany",selbstfahrendes Fahrzeug,Novel Science and Technology Issues,de
+73-B,German,"Berlin,Berlin,Germany",Erderwärmung ist eine Lüge,Conspiracy Theories,de
+74-B,German,"Berlin,Berlin,Germany",Klimawandel ist eine Lüge,Conspiracy Theories,de
+77-B,German,"Berlin,Berlin,Germany",Impfungen verursachen Autismus,Conspiracy Theories,de
+79-B,German,"Berlin,Berlin,Germany",Die Erde ist flach,Conspiracy Theories,de
+80-B,German,"Berlin,Berlin,Germany",Die Mondlandung ist fake,Conspiracy Theories,de
+5,Hebrew,"Jerusalem District,Israel",?????,Canonical Scientific Issues,hw
+6,Hebrew,"Jerusalem District,Israel",????? ????????,Canonical Scientific Issues,hw
+8,Hebrew,"Jerusalem District,Israel",????? ??????,Canonical Scientific Issues,hw
+12,Hebrew,"Jerusalem District,Israel",??????,Canonical Scientific Issues,hw
+13,Hebrew,"Jerusalem District,Israel",??????,Canonical Scientific Issues,hw
+16,Hebrew,"Jerusalem District,Israel",?????,Canonical Scientific Issues,hw
+20,Hebrew,"Jerusalem District,Israel",????,Canonical Scientific Issues,hw
+28,Hebrew,"Jerusalem District,Israel",??????,Canonical Scientific Issues,hw
+29,Hebrew,"Jerusalem District,Israel",????,Canonical Scientific Issues,hw
+35,Hebrew,"Jerusalem District,Israel",????? ????,Canonical Scientific Issues,hw
+38,Hebrew,"Jerusalem District,Israel",????????,Canonical Scientific Issues,hw
+53,Hebrew,"Jerusalem District,Israel",?? ?????,Socio-Scientific Isuues,hw
+54,Hebrew,"Jerusalem District,Israel",????? ??????,Socio-Scientific Isuues,hw
+56,Hebrew,"Jerusalem District,Israel",??????,Socio-Scientific Isuues,hw
+58,Hebrew,"Jerusalem District,Israel",?????? ??????,Socio-Scientific Isuues,hw
+59,Hebrew,"Jerusalem District,Israel",????? ?????,Socio-Scientific Isuues,hw
+65,Hebrew,"Jerusalem District,Israel",????? ????,Socio-Scientific Isuues,hw
+66,Hebrew,"Jerusalem District,Israel",?? ????,Socio-Scientific Isuues,hw
+68,Hebrew,"Jerusalem District,Israel",????? ?????,Socio-Scientific Isuues,hw
+70,Hebrew,"Jerusalem District,Israel",??????,Socio-Scientific Isuues,hw
+71,Hebrew,"Jerusalem District,Israel",?????,Socio-Scientific Isuues,hw
+39,Hebrew,"Jerusalem District,Israel",PCR,Novel Science and Technology Issues,hw
+42,Hebrew,"Jerusalem District,Israel",mRNA,Novel Science and Technology Issues,hw
+43,Hebrew,"Jerusalem District,Israel",????,Novel Science and Technology Issues,hw
+44,Hebrew,"Jerusalem District,Israel",?????,Novel Science and Technology Issues,hw
+45,Hebrew,"Jerusalem District,Israel",????????,Novel Science and Technology Issues,hw
+46,Hebrew,"Jerusalem District,Israel",??????,Novel Science and Technology Issues,hw
+48,Hebrew,"Jerusalem District,Israel",????? ???????,Novel Science and Technology Issues,hw
+49,Hebrew,"Jerusalem District,Israel",??? ????,Novel Science and Technology Issues,hw
+52,Hebrew,"Jerusalem District,Israel",???????,Novel Science and Technology Issues,hw
+87,Hebrew,"Jerusalem District,Israel",?????? ?????????,Novel Science and Technology Issues,hw
+73-B,Hebrew,"Jerusalem District,Israel",???????? ???????? ??? ???,Conspiracy Theories,hw
+74-B,Hebrew,"Jerusalem District,Israel",???? ?????? ??? ?? ?????,Conspiracy Theories,hw
+77-B,Hebrew,"Jerusalem District,Israel",??????? ?????? ???????,Conspiracy Theories,hw
+79-B,Hebrew,"Jerusalem District,Israel",???? ???? ??? ????,Conspiracy Theories,hw
+80-B,Hebrew,"Jerusalem District,Israel",?????? ?? ???? ????? ??????,Conspiracy Theories,hw
+5,Hindi,"New Delhi,Delhi,India",????????,Canonical Scientific Issues,hi
+6,Hindi,"New Delhi,Delhi,India",?????????,Canonical Scientific Issues,hi
+8,Hindi,"New Delhi,Delhi,India",???????,Canonical Scientific Issues,hi
+12,Hindi,"New Delhi,Delhi,India",?????,Canonical Scientific Issues,hi
+13,Hindi,"New Delhi,Delhi,India",????????,Canonical Scientific Issues,hi
+16,Hindi,"New Delhi,Delhi,India",?????,Canonical Scientific Issues,hi
+20,Hindi,"New Delhi,Delhi,India",??????,Canonical Scientific Issues,hi
+28,Hindi,"New Delhi,Delhi,India",?????,Canonical Scientific Issues,hi
+29,Hindi,"New Delhi,Delhi,India",???,Canonical Scientific Issues,hi
+35,Hindi,"New Delhi,Delhi,India",??? ?????,Canonical Scientific Issues,hi
+38,Hindi,"New Delhi,Delhi,India",????-?????,Canonical Scientific Issues,hi
+53,Hindi,"New Delhi,Delhi,India",??????,Socio-Scientific Isuues,hi
+54,Hindi,"New Delhi,Delhi,India",????? ???????,Socio-Scientific Isuues,hi
+56,Hindi,"New Delhi,Delhi,India",??????,Socio-Scientific Isuues,hi
+58,Hindi,"New Delhi,Delhi,India",????? ?????,Socio-Scientific Isuues,hi
+59,Hindi,"New Delhi,Delhi,India",???????? ????????,Socio-Scientific Isuues,hi
+65,Hindi,"New Delhi,Delhi,India",???? ???????,Socio-Scientific Isuues,hi
+66,Hindi,"New Delhi,Delhi,India",????????? ???,Socio-Scientific Isuues,hi
+68,Hindi,"New Delhi,Delhi,India",???????,Socio-Scientific Isuues,hi
+70,Hindi,"New Delhi,Delhi,India",????,Socio-Scientific Isuues,hi
+71,Hindi,"New Delhi,Delhi,India",????,Socio-Scientific Isuues,hi
+39,Hindi,"New Delhi,Delhi,India",??????,Novel Science and Technology Issues,hi
+42,Hindi,"New Delhi,Delhi,India",?? ??.??.?,Novel Science and Technology Issues,hi
+43,Hindi,"New Delhi,Delhi,India",?????,Novel Science and Technology Issues,hi
+44,Hindi,"New Delhi,Delhi,India",???? ????,Novel Science and Technology Issues,hi
+45,Hindi,"New Delhi,Delhi,India",?????????,Novel Science and Technology Issues,hi
+46,Hindi,"New Delhi,Delhi,India",????????,Novel Science and Technology Issues,hi
+48,Hindi,"New Delhi,Delhi,India",??????? ???,Novel Science and Technology Issues,hi
+49,Hindi,"New Delhi,Delhi,India",????? ?????,Novel Science and Technology Issues,hi
+52,Hindi,"New Delhi,Delhi,India",???????????,Novel Science and Technology Issues,hi
+87,Hindi,"New Delhi,Delhi,India",???????? ???,Novel Science and Technology Issues,hi
+73-B,Hindi,"New Delhi,Delhi,India",???????? ???????? ?? ??? ??,Conspiracy Theories,hi
+74-B,Hindi,"New Delhi,Delhi,India",?????? ???????? ?? ??? ??,Conspiracy Theories,hi
+77-B,Hindi,"New Delhi,Delhi,India",??????? ?? ?????? ??? ??,Conspiracy Theories,hi
+79-B,Hindi,"New Delhi,Delhi,India",?????? ???? ??,Conspiracy Theories,hi
+80-B,Hindi,"New Delhi,Delhi,India",???????? ?? ??????? ?? ??? ??,Conspiracy Theories,hi
+39,Indonesian,"Central Jakarta,Jakarta,Indonesia",PCR,Novel Science and Technology Issues,id
+42,Indonesian,"Central Jakarta,Jakarta,Indonesia",mRNA,Novel Science and Technology Issues,id
+43,Indonesian,"Central Jakarta,Jakarta,Indonesia",Genom,Novel Science and Technology Issues,id
+44,Indonesian,"Central Jakarta,Jakarta,Indonesia",Mars,Novel Science and Technology Issues,id
+45,Indonesian,"Central Jakarta,Jakarta,Indonesia",Asteroid,Novel Science and Technology Issues,id
+46,Indonesian,"Central Jakarta,Jakarta,Indonesia",CRISPR,Novel Science and Technology Issues,id
+48,Indonesian,"Central Jakarta,Jakarta,Indonesia",Pelipatan protein,Novel Science and Technology Issues,id
+49,Indonesian,"Central Jakarta,Jakarta,Indonesia",Lubang hitam,Novel Science and Technology Issues,id
+52,Indonesian,"Central Jakarta,Jakarta,Indonesia",Mutasi,Novel Science and Technology Issues,id
+87,Indonesian,"Central Jakarta,Jakarta,Indonesia",Mobil otomatis,Novel Science and Technology Issues,id
+73-B,Indonesian,"Central Jakarta,Jakarta,Indonesia",Pemanasan global hoax,Conspiracy theories,id
+74-B,Indonesian,"Central Jakarta,Jakarta,Indonesia",Perubahan iklim hoax,Conspiracy theories,id
+77-B,Indonesian,"Central Jakarta,Jakarta,Indonesia",Vaksin autisme,Conspiracy theories,id
+79-B,Indonesian,"Central Jakarta,Jakarta,Indonesia",Bumi datar,Conspiracy theories,id
+80-B,Indonesian,"Central Jakarta,Jakarta,Indonesia",Pendaratan di bulan hoax,Conspiracy theories,id
+5,Indonesian,"Central Jakarta,Jakarta,Indonesia",Lingkungan,Canonical Scientific Issues,id
+6,Indonesian,"Central Jakarta,Jakarta,Indonesia",Ekosistem,Canonical Scientific Issues,id
+8,Indonesian,"Central Jakarta,Jakarta,Indonesia",Polusi,Canonical Scientific Issues,id
+12,Indonesian,"Central Jakarta,Jakarta,Indonesia",Fungi,Canonical Scientific Issues,id
+13,Indonesian,"Central Jakarta,Jakarta,Indonesia",Mamalia,Canonical Scientific Issues,id
+16,Indonesian,"Central Jakarta,Jakarta,Indonesia",larutan,Canonical Scientific Issues,id
+20,Indonesian,"Central Jakarta,Jakarta,Indonesia",Atom,Canonical Scientific Issues,id
+28,Indonesian,"Central Jakarta,Jakarta,Indonesia",Energi,Canonical Scientific Issues,id
+29,Indonesian,"Central Jakarta,Jakarta,Indonesia",Berat,Canonical Scientific Issues,id
+35,Indonesian,"Central Jakarta,Jakarta,Indonesia",Tata surya,Canonical Scientific Issues,id
+38,Indonesian,"Central Jakarta,Jakarta,Indonesia",Evolusi,Canonical Scientific Issues,id
+53,Indonesian,"Central Jakarta,Jakarta,Indonesia",Malnutrisi,Socio-Scientific Isuues,id
+54,Indonesian,"Central Jakarta,Jakarta,Indonesia",Ketahanan pangan,Socio-Scientific Isuues,id
+56,Indonesian,"Central Jakarta,Jakarta,Indonesia",Kalori,Socio-Scientific Isuues,id
+58,Indonesian,"Central Jakarta,Jakarta,Indonesia",Energi terbarukan,Socio-Scientific Isuues,id
+59,Indonesian,"Central Jakarta,Jakarta,Indonesia",Perubahan Iklim,Socio-Scientific Isuues,id
+65,Indonesian,"Central Jakarta,Jakarta,Indonesia",Pencemaran tanah,Socio-Scientific Isuues,id
+66,Indonesian,"Central Jakarta,Jakarta,Indonesia",Gas rumah kaca,Socio-Scientific Isuues,id
+68,Indonesian,"Central Jakarta,Jakarta,Indonesia",Infeksi,Socio-Scientific Isuues,id
+70,Indonesian,"Central Jakarta,Jakarta,Indonesia",Banjir,Socio-Scientific Isuues,id
+71,Indonesian,"Central Jakarta,Jakarta,Indonesia",Kemarau,Socio-Scientific Isuues,id
+5,Italian,"Rome,Lazio,Italy",Ambiente,Canonical Scientific Issues,it
+6,Italian,"Rome,Lazio,Italy",Ecosistema,Canonical Scientific Issues,it
+8,Italian,"Rome,Lazio,Italy",Inquinamento,Canonical Scientific Issues,it
+12,Italian,"Rome,Lazio,Italy",Fungi,Canonical Scientific Issues,it
+13,Italian,"Rome,Lazio,Italy",Mammifero,Canonical Scientific Issues,it
+16,Italian,"Rome,Lazio,Italy",Soluzione,Canonical Scientific Issues,it
+20,Italian,"Rome,Lazio,Italy",Atomo,Canonical Scientific Issues,it
+28,Italian,"Rome,Lazio,Italy",Energia,Canonical Scientific Issues,it
+29,Italian,"Rome,Lazio,Italy",Peso,Canonical Scientific Issues,it
+35,Italian,"Rome,Lazio,Italy",Sistema solare,Canonical Scientific Issues,it
+38,Italian,"Rome,Lazio,Italy",Evoluzione,Canonical Scientific Issues,it
+53,Italian,"Rome,Lazio,Italy",Malnutrizione,Socio-Scientific Isuues,it
+54,Italian,"Rome,Lazio,Italy",Sicurezza alimentare,Socio-Scientific Isuues,it
+56,Italian,"Rome,Lazio,Italy",Caloria,Socio-Scientific Isuues,it
+58,Italian,"Rome,Lazio,Italy",Energia rinnovabile,Socio-Scientific Isuues,it
+59,Italian,"Rome,Lazio,Italy",Cambiamento climatico,Socio-Scientific Isuues,it
+65,Italian,"Rome,Lazio,Italy",Contaminazione del suolo,Socio-Scientific Isuues,it
+66,Italian,"Rome,Lazio,Italy",Gas serra,Socio-Scientific Isuues,it
+68,Italian,"Rome,Lazio,Italy",Infezione,Socio-Scientific Isuues,it
+70,Italian,"Rome,Lazio,Italy",Inondazione,Socio-Scientific Isuues,it
+71,Italian,"Rome,Lazio,Italy",Siccità,Socio-Scientific Isuues,it
+39,Italian,"Rome,Lazio,Italy",PCR,Novel Science and Technology Issues,it
+42,Italian,"Rome,Lazio,Italy",mRNA,Novel Science and Technology Issues,it
+43,Italian,"Rome,Lazio,Italy",genoma,Novel Science and Technology Issues,it
+44,Italian,"Rome,Lazio,Italy",Marte,Novel Science and Technology Issues,it
+45,Italian,"Rome,Lazio,Italy",asteroidi,Novel Science and Technology Issues,it
+46,Italian,"Rome,Lazio,Italy",CRISPR,Novel Science and Technology Issues,it
+48,Italian,"Rome,Lazio,Italy",ripiegamento delle proteine,Novel Science and Technology Issues,it
+49,Italian,"Rome,Lazio,Italy",buco nero,Novel Science and Technology Issues,it
+52,Italian,"Rome,Lazio,Italy",mutazione,Novel Science and Technology Issues,it
+87,Italian,"Rome,Lazio,Italy",auto autonoma,Novel Science and Technology Issues,it
+73-B,Italian,"Rome,Lazio,Italy",Il riscaldamento globale è una bufala,Conspiracy Theories,it
+74-B,Italian,"Rome,Lazio,Italy",Il cambiamento climatico è una bufala,Conspiracy Theories,it
+77-B,Italian,"Rome,Lazio,Italy",i vaccini causano l'autismo,Conspiracy Theories,it
+79-B,Italian,"Rome,Lazio,Italy",sostenitori della terra piatta,Conspiracy Theories,it
+80-B,Italian,"Rome,Lazio,Italy",finto sbarco sulla luna,Conspiracy Theories,it
+5,Japanese,"Tokyo,Tokyo,Japan",??,Canonical Scientific Issues,vi
+6,Japanese,"Tokyo,Tokyo,Japan",???,Canonical Scientific Issues,vi
+8,Japanese,"Tokyo,Tokyo,Japan",??,Canonical Scientific Issues,vi
+12,Japanese,"Tokyo,Tokyo,Japan",??,Canonical Scientific Issues,vi
+13,Japanese,"Tokyo,Tokyo,Japan",???,Canonical Scientific Issues,vi
+16,Japanese,"Tokyo,Tokyo,Japan",??,Canonical Scientific Issues,vi
+20,Japanese,"Tokyo,Tokyo,Japan",??,Canonical Scientific Issues,vi
+28,Japanese,"Tokyo,Tokyo,Japan",?????,Canonical Scientific Issues,vi
+29,Japanese,"Tokyo,Tokyo,Japan",??,Canonical Scientific Issues,vi
+35,Japanese,"Tokyo,Tokyo,Japan",???,Canonical Scientific Issues,vi
+38,Japanese,"Tokyo,Tokyo,Japan",??,Socio-Scientific Isuues,vi
+53,Japanese,"Tokyo,Tokyo,Japan",????,Socio-Scientific Isuues,vi
+54,Japanese,"Tokyo,Tokyo,Japan",??????,Socio-Scientific Isuues,vi
+56,Japanese,"Tokyo,Tokyo,Japan",????,Socio-Scientific Isuues,vi
+58,Japanese,"Tokyo,Tokyo,Japan",?????????,Socio-Scientific Isuues,vi
+59,Japanese,"Tokyo,Tokyo,Japan",????,Socio-Scientific Isuues,vi
+65,Japanese,"Tokyo,Tokyo,Japan",????,Socio-Scientific Isuues,vi
+66,Japanese,"Tokyo,Tokyo,Japan",??????,Socio-Scientific Isuues,vi
+68,Japanese,"Tokyo,Tokyo,Japan",??,Socio-Scientific Isuues,vi
+70,Japanese,"Tokyo,Tokyo,Japan",??,Socio-Scientific Isuues,vi
+71,Japanese,"Tokyo,Tokyo,Japan",??? or ??,Socio-Scientific Isuues,vi
+39,Japanese,"Tokyo,Tokyo,Japan",PCR,Novel Science and Technology Issues,vi
+42,Japanese,"Tokyo,Tokyo,Japan",mRNA,Novel Science and Technology Issues,vi
+43,Japanese,"Tokyo,Tokyo,Japan",???,Novel Science and Technology Issues,vi
+44,Japanese,"Tokyo,Tokyo,Japan",??,Novel Science and Technology Issues,vi
+45,Japanese,"Tokyo,Tokyo,Japan",???,Novel Science and Technology Issues,vi
+46,Japanese,"Tokyo,Tokyo,Japan",CRISPR,Novel Science and Technology Issues,vi
+48,Japanese,"Tokyo,Tokyo,Japan",?????????????,Novel Science and Technology Issues,vi
+49,Japanese,"Tokyo,Tokyo,Japan",???????,Novel Science and Technology Issues,vi
+52,Japanese,"Tokyo,Tokyo,Japan",????,Novel Science and Technology Issues,vi
+73-B,Japanese,"Tokyo,Tokyo,Japan",????? ?,Conspiracy theories,vi
+74-B,Japanese,"Tokyo,Tokyo,Japan",???? ?,Conspiracy theories,vi
+77-B,Japanese,"Tokyo,Tokyo,Japan",???? ???,Conspiracy theories,vi
+79-B,Japanese,"Tokyo,Tokyo,Japan",???????,Conspiracy theories,vi
+80-B,Japanese,"Tokyo,Tokyo,Japan",???? ?,Conspiracy theories,vi
+87,Japanese,"Tokyo,Tokyo,Japan",?????,Novel Science and Technology Issues,vi
+73-B,Korean,"Seoul,South Korea",?? ??? ??,Conspiracy theories,ko
+74-B,Korean,"Seoul,South Korea",?? ?? ??,Conspiracy theories,ko
+77-B,Korean,"Seoul,South Korea",?? ???,Conspiracy theories,ko
+79-B,Korean,"Seoul,South Korea",?????,Conspiracy theories,ko
+80-B,Korean,"Seoul,South Korea",? ?? ??,Conspiracy theories,ko
+39,Korean,"Seoul,South Korea",PCR,Novel Science and Technology Issues,ko
+42,Korean,"Seoul,South Korea",mRNA,Novel Science and Technology Issues,ko
+43,Korean,"Seoul,South Korea",??,Novel Science and Technology Issues,ko
+44,Korean,"Seoul,South Korea",??,Novel Science and Technology Issues,ko
+45,Korean,"Seoul,South Korea",???,Novel Science and Technology Issues,ko
+46,Korean,"Seoul,South Korea",??? ??,Novel Science and Technology Issues,ko
+48,Korean,"Seoul,South Korea",??? ??,Novel Science and Technology Issues,ko
+49,Korean,"Seoul,South Korea",???,Novel Science and Technology Issues,ko
+52,Korean,"Seoul,South Korea",????,Novel Science and Technology Issues,ko
+87,Korean,"Seoul,South Korea",?????,Novel Science and Technology Issues,ko
+5,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+6,Korean,"Seoul,South Korea",???,Canonical Scientific Issues,ko
+8,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+12,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+13,Korean,"Seoul,South Korea",???,Canonical Scientific Issues,ko
+16,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+20,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+28,Korean,"Seoul,South Korea",???,Canonical Scientific Issues,ko
+29,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+35,Korean,"Seoul,South Korea",???,Canonical Scientific Issues,ko
+38,Korean,"Seoul,South Korea",??,Canonical Scientific Issues,ko
+53,Korean,"Seoul,South Korea",????,Socio-Scientific Isuues,ko
+54,Korean,"Seoul,South Korea",??????,Socio-Scientific Isuues,ko
+56,Korean,"Seoul,South Korea",???,Socio-Scientific Isuues,ko
+58,Korean,"Seoul,South Korea",???? ???,Socio-Scientific Isuues,ko
+59,Korean,"Seoul,South Korea",?? ??,Socio-Scientific Isuues,ko
+65,Korean,"Seoul,South Korea",?? ??,Socio-Scientific Isuues,ko
+66,Korean,"Seoul,South Korea",????,Socio-Scientific Isuues,ko
+68,Korean,"Seoul,South Korea",??,Socio-Scientific Isuues,ko
+70,Korean,"Seoul,South Korea",??,Socio-Scientific Isuues,ko
+71,Korean,"Seoul,South Korea",??,Socio-Scientific Isuues,ko
+5,Persian,"Washington,District of Columbia,United States",???? ????,Canonical Scientific Issues,fa
+6,Persian,"Washington,District of Columbia,United States",????????,Canonical Scientific Issues,fa
+8,Persian,"Washington,District of Columbia,United States",??????,Canonical Scientific Issues,fa
+12,Persian,"Washington,District of Columbia,United States",????,Canonical Scientific Issues,fa
+13,Persian,"Washington,District of Columbia,United States",????? ???,Canonical Scientific Issues,fa
+16,Persian,"Washington,District of Columbia,United States",?????,Canonical Scientific Issues,fa
+20,Persian,"Washington,District of Columbia,United States",???,Canonical Scientific Issues,fa
+28,Persian,"Washington,District of Columbia,United States",?????,Canonical Scientific Issues,fa
+29,Persian,"Washington,District of Columbia,United States",???,Canonical Scientific Issues,fa
+35,Persian,"Washington,District of Columbia,United States",?????? ????,Canonical Scientific Issues,fa
+38,Persian,"Washington,District of Columbia,United States",?????,Socio-Scientific Isuues,fa
+53,Persian,"Washington,District of Columbia,United States",??? ?????,Socio-Scientific Isuues,fa
+54,Persian,"Washington,District of Columbia,United States",????? ?????,Socio-Scientific Isuues,fa
+56,Persian,"Washington,District of Columbia,United States",?????,Socio-Scientific Isuues,fa
+58,Persian,"Washington,District of Columbia,United States",????? ?????????,Socio-Scientific Isuues,fa
+59,Persian,"Washington,District of Columbia,United States",????? ??????,Socio-Scientific Isuues,fa
+65,Persian,"Washington,District of Columbia,United States",?????? ???,Socio-Scientific Isuues,fa
+66,Persian,"Washington,District of Columbia,United States",??? ?????? ??,Socio-Scientific Isuues,fa
+68,Persian,"Washington,District of Columbia,United States",?????,Socio-Scientific Isuues,fa
+70,Persian,"Washington,District of Columbia,United States",???,Socio-Scientific Isuues,fa
+71,Persian,"Washington,District of Columbia,United States",???????,Socio-Scientific Isuues,fa
+39,Persian,"Washington,District of Columbia,United States",????? ?????? ?? ??????? (?? ?? ??),Novel Science and Technology Issues,fa
+42,Persian,"Washington,District of Columbia,United States",?? ?? ?? ??????,Novel Science and Technology Issues,fa
+43,Persian,"Washington,District of Columbia,United States",????,Novel Science and Technology Issues,fa
+44,Persian,"Washington,District of Columbia,United States",????,Novel Science and Technology Issues,fa
+45,Persian,"Washington,District of Columbia,United States",?????,Novel Science and Technology Issues,fa
+46,Persian,"Washington,District of Columbia,United States",??????,Novel Science and Technology Issues,fa
+48,Persian,"Washington,District of Columbia,United States",?????? ???????,Novel Science and Technology Issues,fa
+49,Persian,"Washington,District of Columbia,United States",???? ????,Novel Science and Technology Issues,fa
+52,Persian,"Washington,District of Columbia,United States",??? ??????,Novel Science and Technology Issues,fa
+73-B,Polish,"Warsaw,Masovian Voivodeship,Poland",globalne ocieplenie bzdura,Conspiracy Theories,pl
+74-B,Polish,"Warsaw,Masovian Voivodeship,Poland",zmiany klimatu bzdura,Conspiracy Theories,pl
+77-B,Polish,"Warsaw,Masovian Voivodeship,Poland",szczepionki autyzm,Conspiracy Theories,pl
+79-B,Polish,"Warsaw,Masovian Voivodeship,Poland",p?aska ziemia,Conspiracy Theories,pl
+80-B,Polish,"Warsaw,Masovian Voivodeship,Poland",l?dowanie na ksi??ycu fejk,Conspiracy Theories,pl
+5,Polish,"Warsaw,Masovian Voivodeship,Poland",?rodowisko,Canonical Scientific Issues,pl
+6,Polish,"Warsaw,Masovian Voivodeship,Poland",Ekosystem,Canonical Scientific Issues,pl
+8,Polish,"Warsaw,Masovian Voivodeship,Poland",Zanieczyszczenie,Canonical Scientific Issues,pl
+12,Polish,"Warsaw,Masovian Voivodeship,Poland",Grzyb,Canonical Scientific Issues,pl
+13,Polish,"Warsaw,Masovian Voivodeship,Poland",Ssak,Canonical Scientific Issues,pl
+16,Polish,"Warsaw,Masovian Voivodeship,Poland",Rozwi?zanie,Canonical Scientific Issues,pl
+20,Polish,"Warsaw,Masovian Voivodeship,Poland",Atom,Canonical Scientific Issues,pl
+28,Polish,"Warsaw,Masovian Voivodeship,Poland",Energia,Canonical Scientific Issues,pl
+29,Polish,"Warsaw,Masovian Voivodeship,Poland",Waga,Canonical Scientific Issues,pl
+35,Polish,"Warsaw,Masovian Voivodeship,Poland",Uk?ad s?oneczny,Canonical Scientific Issues,pl
+38,Polish,"Warsaw,Masovian Voivodeship,Poland",Ewolucja,Socio-Scientific Isuues,pl
+53,Polish,"Warsaw,Masovian Voivodeship,Poland",Niedo?ywienie,Socio-Scientific Isuues,pl
+54,Polish,"Warsaw,Masovian Voivodeship,Poland",Bezpiecze?stwo ?ywno?ciowe,Socio-Scientific Isuues,pl
+56,Polish,"Warsaw,Masovian Voivodeship,Poland",Kaloria,Socio-Scientific Isuues,pl
+58,Polish,"Warsaw,Masovian Voivodeship,Poland",Energia odnawialna,Socio-Scientific Isuues,pl
+59,Polish,"Warsaw,Masovian Voivodeship,Poland",Zmiany klimatu,Socio-Scientific Isuues,pl
+65,Polish,"Warsaw,Masovian Voivodeship,Poland",Zanieczyszczenie gleby,Socio-Scientific Isuues,pl
+66,Polish,"Warsaw,Masovian Voivodeship,Poland",Gaz cieplarniany,Socio-Scientific Isuues,pl
+68,Polish,"Warsaw,Masovian Voivodeship,Poland",Infekcja,Socio-Scientific Isuues,pl
+70,Polish,"Warsaw,Masovian Voivodeship,Poland",Powód?,Socio-Scientific Isuues,pl
+71,Polish,"Warsaw,Masovian Voivodeship,Poland",Susza,Socio-Scientific Isuues,pl
+39,Polish,"Warsaw,Masovian Voivodeship,Poland",PCR,Novel Science and Technology Issues,pl
+42,Polish,"Warsaw,Masovian Voivodeship,Poland",szczepionka mRNA,Novel Science and Technology Issues,pl
+43,Polish,"Warsaw,Masovian Voivodeship,Poland",genom,Novel Science and Technology Issues,pl
+44,Polish,"Warsaw,Masovian Voivodeship,Poland",Mars,Novel Science and Technology Issues,pl
+45,Polish,"Warsaw,Masovian Voivodeship,Poland",asteroidy,Novel Science and Technology Issues,pl
+46,Polish,"Warsaw,Masovian Voivodeship,Poland",CRISPR,Novel Science and Technology Issues,pl
+48,Polish,"Warsaw,Masovian Voivodeship,Poland",zwijanie bia?ka,Novel Science and Technology Issues,pl
+49,Polish,"Warsaw,Masovian Voivodeship,Poland",czarna dziura,Novel Science and Technology Issues,pl
+52,Polish,"Warsaw,Masovian Voivodeship,Poland",Mutacja,Novel Science and Technology Issues,pl
+87,Polish,"Warsaw,Masovian Voivodeship,Poland",Samochód bezza?ogowy,Novel Science and Technology Issues,pl
+5,Portuguese,"Brasilia,Federal District,Brazil",ambiente,Canonical Scientific Issues,pt
+5,Portuguese,"Lisbon,Lisbon,Portugal",ambiente,Canonical Scientific Issues,pt
+5,Portuguese,"Luanda,Luanda Province,Angola",ambiente,Canonical Scientific Issues,pt
+5,Portuguese,"Maputo,Maputo,Mozambique",ambiente,Canonical Scientific Issues,pt
+6,Portuguese,"Brasilia,Federal District,Brazil",ecossistema,Canonical Scientific Issues,pt
+6,Portuguese,"Lisbon,Lisbon,Portugal",ecossistema,Canonical Scientific Issues,pt
+6,Portuguese,"Luanda,Luanda Province,Angola",ecossistema,Canonical Scientific Issues,pt
+6,Portuguese,"Maputo,Maputo,Mozambique",ecossistema,Canonical Scientific Issues,pt
+8,Portuguese,"Brasilia,Federal District,Brazil",poluição,Canonical Scientific Issues,pt
+8,Portuguese,"Lisbon,Lisbon,Portugal",poluição,Canonical Scientific Issues,pt
+8,Portuguese,"Luanda,Luanda Province,Angola",poluição,Canonical Scientific Issues,pt
+8,Portuguese,"Maputo,Maputo,Mozambique",poluição,Canonical Scientific Issues,pt
+12,Portuguese,"Brasilia,Federal District,Brazil",fungo,Canonical Scientific Issues,pt
+12,Portuguese,"Lisbon,Lisbon,Portugal",fungo,Canonical Scientific Issues,pt
+12,Portuguese,"Luanda,Luanda Province,Angola",fungo,Canonical Scientific Issues,pt
+12,Portuguese,"Maputo,Maputo,Mozambique",fungo,Canonical Scientific Issues,pt
+13,Portuguese,"Brasilia,Federal District,Brazil",mamífero,Canonical Scientific Issues,pt
+13,Portuguese,"Lisbon,Lisbon,Portugal",mamífero,Canonical Scientific Issues,pt
+13,Portuguese,"Luanda,Luanda Province,Angola",mamífero,Canonical Scientific Issues,pt
+13,Portuguese,"Maputo,Maputo,Mozambique",mamífero,Canonical Scientific Issues,pt
+16,Portuguese,"Brasilia,Federal District,Brazil",solução,Canonical Scientific Issues,pt
+16,Portuguese,"Lisbon,Lisbon,Portugal",solução,Canonical Scientific Issues,pt
+16,Portuguese,"Luanda,Luanda Province,Angola",solução,Canonical Scientific Issues,pt
+16,Portuguese,"Maputo,Maputo,Mozambique",solução,Canonical Scientific Issues,pt
+20,Portuguese,"Brasilia,Federal District,Brazil",átomo,Canonical Scientific Issues,pt
+20,Portuguese,"Lisbon,Lisbon,Portugal",átomo,Canonical Scientific Issues,pt
+20,Portuguese,"Luanda,Luanda Province,Angola",átomo,Canonical Scientific Issues,pt
+20,Portuguese,"Maputo,Maputo,Mozambique",átomo,Canonical Scientific Issues,pt
+28,Portuguese,"Brasilia,Federal District,Brazil",energia,Canonical Scientific Issues,pt
+28,Portuguese,"Lisbon,Lisbon,Portugal",energia,Canonical Scientific Issues,pt
+28,Portuguese,"Luanda,Luanda Province,Angola",energia,Canonical Scientific Issues,pt
+28,Portuguese,"Maputo,Maputo,Mozambique",energia,Canonical Scientific Issues,pt
+29,Portuguese,"Brasilia,Federal District,Brazil",peso,Canonical Scientific Issues,pt
+29,Portuguese,"Lisbon,Lisbon,Portugal",peso,Canonical Scientific Issues,pt
+29,Portuguese,"Luanda,Luanda Province,Angola",peso,Canonical Scientific Issues,pt
+29,Portuguese,"Maputo,Maputo,Mozambique",peso,Canonical Scientific Issues,pt
+35,Portuguese,"Brasilia,Federal District,Brazil",sistema solar,Canonical Scientific Issues,pt
+35,Portuguese,"Lisbon,Lisbon,Portugal",sistema solar,Canonical Scientific Issues,pt
+35,Portuguese,"Luanda,Luanda Province,Angola",sistema solar,Canonical Scientific Issues,pt
+35,Portuguese,"Maputo,Maputo,Mozambique",sistema solar,Canonical Scientific Issues,pt
+38,Portuguese,"Brasilia,Federal District,Brazil",evolução,Canonical Scientific Issues,pt
+38,Portuguese,"Lisbon,Lisbon,Portugal",evolução,Canonical Scientific Issues,pt
+38,Portuguese,"Luanda,Luanda Province,Angola",evolução,Canonical Scientific Issues,pt
+38,Portuguese,"Maputo,Maputo,Mozambique",evolução,Canonical Scientific Issues,pt
+53,Portuguese,"Brasilia,Federal District,Brazil",desnutrição,Socio-Scientific Isuues,pt
+53,Portuguese,"Lisbon,Lisbon,Portugal",desnutrição,Socio-Scientific Isuues,pt
+53,Portuguese,"Luanda,Luanda Province,Angola",desnutrição,Socio-Scientific Isuues,pt
+53,Portuguese,"Maputo,Maputo,Mozambique",desnutrição,Socio-Scientific Isuues,pt
+54,Portuguese,"Brasilia,Federal District,Brazil",segurança alimentar,Socio-Scientific Isuues,pt
+54,Portuguese,"Lisbon,Lisbon,Portugal",segurança alimentar,Socio-Scientific Isuues,pt
+54,Portuguese,"Luanda,Luanda Province,Angola",segurança alimentar,Socio-Scientific Isuues,pt
+54,Portuguese,"Maputo,Maputo,Mozambique",segurança alimentar,Socio-Scientific Isuues,pt
+56,Portuguese,"Brasilia,Federal District,Brazil",caloria,Socio-Scientific Isuues,pt
+56,Portuguese,"Lisbon,Lisbon,Portugal",caloria,Socio-Scientific Isuues,pt
+56,Portuguese,"Luanda,Luanda Province,Angola",caloria,Socio-Scientific Isuues,pt
+56,Portuguese,"Maputo,Maputo,Mozambique",caloria,Socio-Scientific Isuues,pt
+58,Portuguese,"Brasilia,Federal District,Brazil",energia renovável,Socio-Scientific Isuues,pt
+58,Portuguese,"Lisbon,Lisbon,Portugal",energia renovável,Socio-Scientific Isuues,pt
+58,Portuguese,"Luanda,Luanda Province,Angola",energia renovável,Socio-Scientific Isuues,pt
+58,Portuguese,"Maputo,Maputo,Mozambique",energia renovável,Socio-Scientific Isuues,pt
+59,Portuguese,"Brasilia,Federal District,Brazil",mudança climática,Socio-Scientific Isuues,pt
+59,Portuguese,"Lisbon,Lisbon,Portugal",mudança climática,Socio-Scientific Isuues,pt
+59,Portuguese,"Luanda,Luanda Province,Angola",mudança climática,Socio-Scientific Isuues,pt
+59,Portuguese,"Maputo,Maputo,Mozambique",mudança climática,Socio-Scientific Isuues,pt
+65,Portuguese,"Brasilia,Federal District,Brazil",contaminação dos solos,Socio-Scientific Isuues,pt
+65,Portuguese,"Lisbon,Lisbon,Portugal",contaminação dos solos,Socio-Scientific Isuues,pt
+65,Portuguese,"Luanda,Luanda Province,Angola",contaminação dos solos,Socio-Scientific Isuues,pt
+65,Portuguese,"Maputo,Maputo,Mozambique",contaminação dos solos,Socio-Scientific Isuues,pt
+66,Portuguese,"Brasilia,Federal District,Brazil",gases de efeitos de estufa,Socio-Scientific Isuues,pt
+66,Portuguese,"Lisbon,Lisbon,Portugal",gases de efeitos de estufa,Socio-Scientific Isuues,pt
+66,Portuguese,"Luanda,Luanda Province,Angola",gases de efeitos de estufa,Socio-Scientific Isuues,pt
+66,Portuguese,"Maputo,Maputo,Mozambique",gases de efeitos de estufa,Socio-Scientific Isuues,pt
+68,Portuguese,"Brasilia,Federal District,Brazil",infecção,Socio-Scientific Isuues,pt
+68,Portuguese,"Lisbon,Lisbon,Portugal",infecção,Socio-Scientific Isuues,pt
+68,Portuguese,"Luanda,Luanda Province,Angola",infecção,Socio-Scientific Isuues,pt
+68,Portuguese,"Maputo,Maputo,Mozambique",infecção,Socio-Scientific Isuues,pt
+70,Portuguese,"Brasilia,Federal District,Brazil",Inundação,Socio-Scientific Isuues,pt
+70,Portuguese,"Lisbon,Lisbon,Portugal",Inundação,Socio-Scientific Isuues,pt
+70,Portuguese,"Luanda,Luanda Province,Angola",Inundação,Socio-Scientific Isuues,pt
+70,Portuguese,"Maputo,Maputo,Mozambique",Inundação,Socio-Scientific Isuues,pt
+71,Portuguese,"Brasilia,Federal District,Brazil",seca,Socio-Scientific Isuues,pt
+71,Portuguese,"Lisbon,Lisbon,Portugal",seca,Socio-Scientific Isuues,pt
+71,Portuguese,"Luanda,Luanda Province,Angola",seca,Socio-Scientific Isuues,pt
+71,Portuguese,"Maputo,Maputo,Mozambique",seca,Socio-Scientific Isuues,pt
+39,Portuguese,"Brasilia,Federal District,Brazil",PCR,Novel Science and Technology Issues,pt
+39,Portuguese,"Lisbon,Lisbon,Portugal",PCR,Novel Science and Technology Issues,pt
+39,Portuguese,"Luanda,Luanda Province,Angola",PCR,Novel Science and Technology Issues,pt
+39,Portuguese,"Maputo,Maputo,Mozambique",PCR,Novel Science and Technology Issues,pt
+42,Portuguese,"Brasilia,Federal District,Brazil",RNA mensageiro,Novel Science and Technology Issues,pt
+42,Portuguese,"Lisbon,Lisbon,Portugal",RNA mensageiro,Novel Science and Technology Issues,pt
+42,Portuguese,"Luanda,Luanda Province,Angola",RNA mensageiro,Novel Science and Technology Issues,pt
+42,Portuguese,"Maputo,Maputo,Mozambique",RNA mensageiro,Novel Science and Technology Issues,pt
+43,Portuguese,"Brasilia,Federal District,Brazil",genoma,Novel Science and Technology Issues,pt
+43,Portuguese,"Lisbon,Lisbon,Portugal",genoma,Novel Science and Technology Issues,pt
+43,Portuguese,"Luanda,Luanda Province,Angola",genoma,Novel Science and Technology Issues,pt
+43,Portuguese,"Maputo,Maputo,Mozambique",genoma,Novel Science and Technology Issues,pt
+44,Portuguese,"Brasilia,Federal District,Brazil",marte,Novel Science and Technology Issues,pt
+44,Portuguese,"Lisbon,Lisbon,Portugal",marte,Novel Science and Technology Issues,pt
+44,Portuguese,"Luanda,Luanda Province,Angola",marte,Novel Science and Technology Issues,pt
+44,Portuguese,"Maputo,Maputo,Mozambique",marte,Novel Science and Technology Issues,pt
+45,Portuguese,"Brasilia,Federal District,Brazil",asteróide,Novel Science and Technology Issues,pt
+45,Portuguese,"Lisbon,Lisbon,Portugal",asteróide,Novel Science and Technology Issues,pt
+45,Portuguese,"Luanda,Luanda Province,Angola",asteróide,Novel Science and Technology Issues,pt
+45,Portuguese,"Maputo,Maputo,Mozambique",asteróide,Novel Science and Technology Issues,pt
+46,Portuguese,"Brasilia,Federal District,Brazil",CRISPR,Novel Science and Technology Issues,pt
+46,Portuguese,"Lisbon,Lisbon,Portugal",CRISPR,Novel Science and Technology Issues,pt
+46,Portuguese,"Luanda,Luanda Province,Angola",CRISPR,Novel Science and Technology Issues,pt
+46,Portuguese,"Maputo,Maputo,Mozambique",CRISPR,Novel Science and Technology Issues,pt
+48,Portuguese,"Brasilia,Federal District,Brazil",enovelamento de proteína,Novel Science and Technology Issues,pt
+48,Portuguese,"Lisbon,Lisbon,Portugal",enovelamento de proteína,Novel Science and Technology Issues,pt
+48,Portuguese,"Luanda,Luanda Province,Angola",enovelamento de proteína,Novel Science and Technology Issues,pt
+48,Portuguese,"Maputo,Maputo,Mozambique",enovelamento de proteína,Novel Science and Technology Issues,pt
+49,Portuguese,"Brasilia,Federal District,Brazil",buraco negro,Novel Science and Technology Issues,pt
+49,Portuguese,"Lisbon,Lisbon,Portugal",buraco negro,Novel Science and Technology Issues,pt
+49,Portuguese,"Luanda,Luanda Province,Angola",buraco negro,Novel Science and Technology Issues,pt
+49,Portuguese,"Maputo,Maputo,Mozambique",buraco negro,Novel Science and Technology Issues,pt
+52,Portuguese,"Brasilia,Federal District,Brazil",mutação,Novel Science and Technology Issues,pt
+52,Portuguese,"Lisbon,Lisbon,Portugal",mutação,Novel Science and Technology Issues,pt
+52,Portuguese,"Luanda,Luanda Province,Angola",mutação,Novel Science and Technology Issues,pt
+52,Portuguese,"Maputo,Maputo,Mozambique",mutação,Novel Science and Technology Issues,pt
+87,Portuguese,"Brasilia,Federal District,Brazil",carro automático,Novel Science and Technology Issues,pt
+87,Portuguese,"Lisbon,Lisbon,Portugal",carro automático,Novel Science and Technology Issues,pt
+87,Portuguese,"Luanda,Luanda Province,Angola",carro automático,Novel Science and Technology Issues,pt
+87,Portuguese,"Maputo,Maputo,Mozambique",carro automático,Novel Science and Technology Issues,pt
+73-B,Portuguese,"Brasilia,Federal District,Brazil",fraude do aquecimento global,Conspiracy Theories,pt
+73-B,Portuguese,"Lisbon,Lisbon,Portugal",fraude do aquecimento global,Conspiracy Theories,pt
+73-B,Portuguese,"Luanda,Luanda Province,Angola",fraude do aquecimento global,Conspiracy Theories,pt
+73-B,Portuguese,"Maputo,Maputo,Mozambique",fraude do aquecimento global,Conspiracy Theories,pt
+74-B,Portuguese,"Brasilia,Federal District,Brazil",fraude da mudança climática,Conspiracy Theories,pt
+74-B,Portuguese,"Lisbon,Lisbon,Portugal",fraude da mudança climática,Conspiracy Theories,pt
+74-B,Portuguese,"Luanda,Luanda Province,Angola",fraude da mudança climática,Conspiracy Theories,pt
+74-B,Portuguese,"Maputo,Maputo,Mozambique",fraude da mudança climática,Conspiracy Theories,pt
+77-B,Portuguese,"Brasilia,Federal District,Brazil",vacinas causam autismo,Conspiracy Theories,pt
+77-B,Portuguese,"Lisbon,Lisbon,Portugal",vacinas causam autismo,Conspiracy Theories,pt
+77-B,Portuguese,"Luanda,Luanda Province,Angola",vacinas causam autismo,Conspiracy Theories,pt
+77-B,Portuguese,"Maputo,Maputo,Mozambique",vacinas causam autismo,Conspiracy Theories,pt
+79-B,Portuguese,"Brasilia,Federal District,Brazil",terra plana,Conspiracy Theories,pt
+79-B,Portuguese,"Lisbon,Lisbon,Portugal",terra plana,Conspiracy Theories,pt
+79-B,Portuguese,"Luanda,Luanda Province,Angola",terra plana,Conspiracy Theories,pt
+79-B,Portuguese,"Maputo,Maputo,Mozambique",terra plana,Conspiracy Theories,pt
+80-B,Portuguese,"Brasilia,Federal District,Brazil",fraude da ida do homem à lua,Conspiracy Theories,pt
+80-B,Portuguese,"Lisbon,Lisbon,Portugal",fraude da ida do homem à lua,Conspiracy Theories,pt
+80-B,Portuguese,"Luanda,Luanda Province,Angola",fraude da ida do homem à lua,Conspiracy Theories,pt
+80-B,Portuguese,"Maputo,Maputo,Mozambique",fraude da ida do homem à lua,Conspiracy Theories,pt
+5,Russian,"Moscow,Moscow,Russia",?????,Canonical Scientific Issues,ru
+5,Russian,"Nur-Sultan,Kazakhstan",?????,Canonical Scientific Issues,ru
+6,Russian,"Moscow,Moscow,Russia",??????????,Canonical Scientific Issues,ru
+6,Russian,"Nur-Sultan,Kazakhstan",??????????,Canonical Scientific Issues,ru
+8,Russian,"Moscow,Moscow,Russia",???????????,Canonical Scientific Issues,ru
+8,Russian,"Nur-Sultan,Kazakhstan",???????????,Canonical Scientific Issues,ru
+12,Russian,"Moscow,Moscow,Russia",?????,Canonical Scientific Issues,ru
+12,Russian,"Nur-Sultan,Kazakhstan",?????,Canonical Scientific Issues,ru
+13,Russian,"Moscow,Moscow,Russia",?????????????,Canonical Scientific Issues,ru
+13,Russian,"Nur-Sultan,Kazakhstan",?????????????,Canonical Scientific Issues,ru
+16,Russian,"Moscow,Moscow,Russia",???????,Canonical Scientific Issues,ru
+16,Russian,"Nur-Sultan,Kazakhstan",???????,Canonical Scientific Issues,ru
+20,Russian,"Moscow,Moscow,Russia",????,Canonical Scientific Issues,ru
+20,Russian,"Nur-Sultan,Kazakhstan",????,Canonical Scientific Issues,ru
+28,Russian,"Moscow,Moscow,Russia",???????,Canonical Scientific Issues,ru
+28,Russian,"Nur-Sultan,Kazakhstan",???????,Canonical Scientific Issues,ru
+29,Russian,"Moscow,Moscow,Russia",???,Canonical Scientific Issues,ru
+29,Russian,"Nur-Sultan,Kazakhstan",???,Canonical Scientific Issues,ru
+35,Russian,"Moscow,Moscow,Russia",????????? ???????,Canonical Scientific Issues,ru
+35,Russian,"Nur-Sultan,Kazakhstan",????????? ???????,Canonical Scientific Issues,ru
+38,Russian,"Moscow,Moscow,Russia",????????,Canonical Scientific Issues,ru
+38,Russian,"Nur-Sultan,Kazakhstan",????????,Canonical Scientific Issues,ru
+53,Russian,"Moscow,Moscow,Russia",????????????? ???????,Socio-Scientific Isuues,ru
+53,Russian,"Nur-Sultan,Kazakhstan",????????????? ???????,Socio-Scientific Isuues,ru
+54,Russian,"Moscow,Moscow,Russia",????????????????? ????????????,Socio-Scientific Isuues,ru
+54,Russian,"Nur-Sultan,Kazakhstan",????????????????? ????????????,Socio-Scientific Isuues,ru
+56,Russian,"Moscow,Moscow,Russia",???????,Socio-Scientific Isuues,ru
+56,Russian,"Nur-Sultan,Kazakhstan",???????,Socio-Scientific Isuues,ru
+58,Russian,"Moscow,Moscow,Russia",?????????????? ???????,Socio-Scientific Isuues,ru
+58,Russian,"Nur-Sultan,Kazakhstan",?????????????? ???????,Socio-Scientific Isuues,ru
+59,Russian,"Moscow,Moscow,Russia",?????????? ??????????,Socio-Scientific Isuues,ru
+59,Russian,"Nur-Sultan,Kazakhstan",?????????? ??????????,Socio-Scientific Isuues,ru
+65,Russian,"Moscow,Moscow,Russia",??????????? ?????,Socio-Scientific Isuues,ru
+65,Russian,"Nur-Sultan,Kazakhstan",??????????? ?????,Socio-Scientific Isuues,ru
+66,Russian,"Moscow,Moscow,Russia",?????????? ????,Socio-Scientific Isuues,ru
+66,Russian,"Nur-Sultan,Kazakhstan",?????????? ????,Socio-Scientific Isuues,ru
+68,Russian,"Moscow,Moscow,Russia",????????,Socio-Scientific Isuues,ru
+68,Russian,"Nur-Sultan,Kazakhstan",????????,Socio-Scientific Isuues,ru
+70,Russian,"Moscow,Moscow,Russia",??????????,Socio-Scientific Isuues,ru
+70,Russian,"Nur-Sultan,Kazakhstan",??????????,Socio-Scientific Isuues,ru
+71,Russian,"Moscow,Moscow,Russia",??????,Socio-Scientific Isuues,ru
+71,Russian,"Nur-Sultan,Kazakhstan",??????,Socio-Scientific Isuues,ru
+39,Russian,"Moscow,Moscow,Russia",???,Novel Science and Technology Issues,ru
+39,Russian,"Nur-Sultan,Kazakhstan",???,Novel Science and Technology Issues,ru
+42,Russian,"Moscow,Moscow,Russia",????,Novel Science and Technology Issues,ru
+42,Russian,"Nur-Sultan,Kazakhstan",????,Novel Science and Technology Issues,ru
+43,Russian,"Moscow,Moscow,Russia",?????,Novel Science and Technology Issues,ru
+43,Russian,"Nur-Sultan,Kazakhstan",?????,Novel Science and Technology Issues,ru
+44,Russian,"Moscow,Moscow,Russia",????,Novel Science and Technology Issues,ru
+44,Russian,"Nur-Sultan,Kazakhstan",????,Novel Science and Technology Issues,ru
+45,Russian,"Moscow,Moscow,Russia",?????????,Novel Science and Technology Issues,ru
+45,Russian,"Nur-Sultan,Kazakhstan",?????????,Novel Science and Technology Issues,ru
+46,Russian,"Moscow,Moscow,Russia",??????,Novel Science and Technology Issues,ru
+46,Russian,"Nur-Sultan,Kazakhstan",??????,Novel Science and Technology Issues,ru
+48,Russian,"Moscow,Moscow,Russia",???????????? ?????,Novel Science and Technology Issues,ru
+48,Russian,"Nur-Sultan,Kazakhstan",???????????? ?????,Novel Science and Technology Issues,ru
+49,Russian,"Moscow,Moscow,Russia",?????? ????,Novel Science and Technology Issues,ru
+49,Russian,"Nur-Sultan,Kazakhstan",?????? ????,Novel Science and Technology Issues,ru
+52,Russian,"Moscow,Moscow,Russia",???????,Novel Science and Technology Issues,ru
+52,Russian,"Nur-Sultan,Kazakhstan",???????,Novel Science and Technology Issues,ru
+87,Russian,"Moscow,Moscow,Russia",??????????? ??????????,Novel Science and Technology Issues,ru
+87,Russian,"Nur-Sultan,Kazakhstan",??????????? ??????????,Novel Science and Technology Issues,ru
+73-B,Russian,"Moscow,Moscow,Russia",?????????? ?????????? ??? ???,Conspiracy Theories,ru
+73-B,Russian,"Nur-Sultan,Kazakhstan",?????????? ?????????? ??? ???,Conspiracy Theories,ru
+74-B,Russian,"Moscow,Moscow,Russia",????????? ??????? ??? ???,Conspiracy Theories,ru
+74-B,Russian,"Nur-Sultan,Kazakhstan",????????? ??????? ??? ???,Conspiracy Theories,ru
+77-B,Russian,"Moscow,Moscow,Russia",??????? ???????? ??????,Conspiracy Theories,ru
+77-B,Russian,"Nur-Sultan,Kazakhstan",??????? ???????? ??????,Conspiracy Theories,ru
+79-B,Russian,"Moscow,Moscow,Russia",??????? ?????,Conspiracy Theories,ru
+79-B,Russian,"Nur-Sultan,Kazakhstan",??????? ?????,Conspiracy Theories,ru
+80-B,Russian,"Moscow,Moscow,Russia",?????????? ?? ???? ?? ????,Conspiracy Theories,ru
+80-B,Russian,"Nur-Sultan,Kazakhstan",?????????? ?? ???? ?? ????,Conspiracy Theories,ru
+5,Spanish,"Madrid,Community of Madrid,Spain",Medio ambiente,Canonical Scientific Issues,es
+5,Spanish,"Mexico City,Mexico City,Mexico",Medio ambiente,Canonical Scientific Issues,es
+5,Spanish,"San Jose,San Jose Province,Costa Rica",Medio ambiente,Canonical Scientific Issues,es
+6,Spanish,"Madrid,Community of Madrid,Spain",Ecosistema,Canonical Scientific Issues,es
+6,Spanish,"Mexico City,Mexico City,Mexico",Ecosistema,Canonical Scientific Issues,es
+6,Spanish,"San Jose,San Jose Province,Costa Rica",Ecosistema,Canonical Scientific Issues,es
+8,Spanish,"Madrid,Community of Madrid,Spain",Contaminación,Canonical Scientific Issues,es
+8,Spanish,"Mexico City,Mexico City,Mexico",Contaminación,Canonical Scientific Issues,es
+8,Spanish,"San Jose,San Jose Province,Costa Rica",Contaminación,Canonical Scientific Issues,es
+12,Spanish,"Madrid,Community of Madrid,Spain",Fungi,Canonical Scientific Issues,es
+12,Spanish,"Mexico City,Mexico City,Mexico",Fungi,Canonical Scientific Issues,es
+12,Spanish,"San Jose,San Jose Province,Costa Rica",Fungi,Canonical Scientific Issues,es
+13,Spanish,"Madrid,Community of Madrid,Spain",Mammalia,Canonical Scientific Issues,es
+13,Spanish,"Mexico City,Mexico City,Mexico",Mammalia,Canonical Scientific Issues,es
+13,Spanish,"San Jose,San Jose Province,Costa Rica",Mammalia,Canonical Scientific Issues,es
+16,Spanish,"Madrid,Community of Madrid,Spain",Disolución,Canonical Scientific Issues,es
+16,Spanish,"Mexico City,Mexico City,Mexico",Disolución,Canonical Scientific Issues,es
+16,Spanish,"San Jose,San Jose Province,Costa Rica",Disolución,Canonical Scientific Issues,es
+20,Spanish,"Madrid,Community of Madrid,Spain",Átomo,Canonical Scientific Issues,es
+20,Spanish,"Mexico City,Mexico City,Mexico",Átomo,Canonical Scientific Issues,es
+20,Spanish,"San Jose,San Jose Province,Costa Rica",Átomo,Canonical Scientific Issues,es
+28,Spanish,"Madrid,Community of Madrid,Spain",Energía,Canonical Scientific Issues,es
+28,Spanish,"Mexico City,Mexico City,Mexico",Energía,Canonical Scientific Issues,es
+28,Spanish,"San Jose,San Jose Province,Costa Rica",Energía,Canonical Scientific Issues,es
+29,Spanish,"Madrid,Community of Madrid,Spain",Peso,Canonical Scientific Issues,es
+29,Spanish,"Mexico City,Mexico City,Mexico",Peso,Canonical Scientific Issues,es
+29,Spanish,"San Jose,San Jose Province,Costa Rica",Peso,Canonical Scientific Issues,es
+35,Spanish,"Madrid,Community of Madrid,Spain",Sistema solar,Canonical Scientific Issues,es
+35,Spanish,"Mexico City,Mexico City,Mexico",Sistema solar,Canonical Scientific Issues,es
+35,Spanish,"San Jose,San Jose Province,Costa Rica",Sistema solar,Canonical Scientific Issues,es
+38,Spanish,"Madrid,Community of Madrid,Spain",Evolución biológica,Canonical Scientific Issues,es
+38,Spanish,"Mexico City,Mexico City,Mexico",Evolución biológica,Canonical Scientific Issues,es
+38,Spanish,"San Jose,San Jose Province,Costa Rica",Evolución biológica,Canonical Scientific Issues,es
+53,Spanish,"Madrid,Community of Madrid,Spain",Malnutrición,Socio-Scientific Isuues,es
+53,Spanish,"Mexico City,Mexico City,Mexico",Malnutrición,Socio-Scientific Isuues,es
+53,Spanish,"San Jose,San Jose Province,Costa Rica",Malnutrición,Socio-Scientific Isuues,es
+54,Spanish,"Madrid,Community of Madrid,Spain",Seguridad alimentaria,Socio-Scientific Isuues,es
+54,Spanish,"Mexico City,Mexico City,Mexico",Seguridad alimentaria,Socio-Scientific Isuues,es
+54,Spanish,"San Jose,San Jose Province,Costa Rica",Seguridad alimentaria,Socio-Scientific Isuues,es
+56,Spanish,"Madrid,Community of Madrid,Spain",Caloría,Socio-Scientific Isuues,es
+56,Spanish,"Mexico City,Mexico City,Mexico",Caloría,Socio-Scientific Isuues,es
+56,Spanish,"San Jose,San Jose Province,Costa Rica",Caloría,Socio-Scientific Isuues,es
+58,Spanish,"Madrid,Community of Madrid,Spain",Energía renovable,Socio-Scientific Isuues,es
+58,Spanish,"Mexico City,Mexico City,Mexico",Energía renovable,Socio-Scientific Isuues,es
+58,Spanish,"San Jose,San Jose Province,Costa Rica",Energía renovable,Socio-Scientific Isuues,es
+59,Spanish,"Madrid,Community of Madrid,Spain",Calentamiento global,Socio-Scientific Isuues,es
+59,Spanish,"Mexico City,Mexico City,Mexico",Calentamiento global,Socio-Scientific Isuues,es
+59,Spanish,"San Jose,San Jose Province,Costa Rica",Calentamiento global,Socio-Scientific Isuues,es
+65,Spanish,"Madrid,Community of Madrid,Spain",Contaminación del suelo,Socio-Scientific Isuues,es
+65,Spanish,"Mexico City,Mexico City,Mexico",Contaminación del suelo,Socio-Scientific Isuues,es
+65,Spanish,"San Jose,San Jose Province,Costa Rica",Contaminación del suelo,Socio-Scientific Isuues,es
+66,Spanish,"Madrid,Community of Madrid,Spain",Gas de efecto invernadero,Socio-Scientific Isuues,es
+66,Spanish,"Mexico City,Mexico City,Mexico",Gas de efecto invernadero,Socio-Scientific Isuues,es
+66,Spanish,"San Jose,San Jose Province,Costa Rica",Gas de efecto invernadero,Socio-Scientific Isuues,es
+68,Spanish,"Madrid,Community of Madrid,Spain",Infección,Socio-Scientific Isuues,es
+68,Spanish,"Mexico City,Mexico City,Mexico",Infección,Socio-Scientific Isuues,es
+68,Spanish,"San Jose,San Jose Province,Costa Rica",Infección,Socio-Scientific Isuues,es
+70,Spanish,"Madrid,Community of Madrid,Spain",Inundación,Socio-Scientific Isuues,es
+70,Spanish,"Mexico City,Mexico City,Mexico",Inundación,Socio-Scientific Isuues,es
+70,Spanish,"San Jose,San Jose Province,Costa Rica",Inundación,Socio-Scientific Isuues,es
+71,Spanish,"Madrid,Community of Madrid,Spain",Sequía,Socio-Scientific Isuues,es
+71,Spanish,"Mexico City,Mexico City,Mexico",Sequía,Socio-Scientific Isuues,es
+71,Spanish,"San Jose,San Jose Province,Costa Rica",Sequía,Socio-Scientific Isuues,es
+39,Spanish,"Madrid,Community of Madrid,Spain",PCR,Novel Science and Technology Issues,es
+39,Spanish,"Mexico City,Mexico City,Mexico",PCR,Novel Science and Technology Issues,es
+39,Spanish,"San Jose,San Jose Province,Costa Rica",PCR,Novel Science and Technology Issues,es
+42,Spanish,"Madrid,Community of Madrid,Spain",mRNA,Novel Science and Technology Issues,es
+42,Spanish,"Mexico City,Mexico City,Mexico",mRNA,Novel Science and Technology Issues,es
+42,Spanish,"San Jose,San Jose Province,Costa Rica",mRNA,Novel Science and Technology Issues,es
+43,Spanish,"Madrid,Community of Madrid,Spain",genoma,Novel Science and Technology Issues,es
+43,Spanish,"Mexico City,Mexico City,Mexico",genoma,Novel Science and Technology Issues,es
+43,Spanish,"San Jose,San Jose Province,Costa Rica",genoma,Novel Science and Technology Issues,es
+44,Spanish,"Madrid,Community of Madrid,Spain",Marte,Novel Science and Technology Issues,es
+44,Spanish,"Mexico City,Mexico City,Mexico",Marte,Novel Science and Technology Issues,es
+44,Spanish,"San Jose,San Jose Province,Costa Rica",Marte,Novel Science and Technology Issues,es
+45,Spanish,"Madrid,Community of Madrid,Spain",asteroides,Novel Science and Technology Issues,es
+45,Spanish,"Mexico City,Mexico City,Mexico",asteroides,Novel Science and Technology Issues,es
+45,Spanish,"San Jose,San Jose Province,Costa Rica",asteroides,Novel Science and Technology Issues,es
+46,Spanish,"Madrid,Community of Madrid,Spain",CRISPR,Novel Science and Technology Issues,es
+46,Spanish,"Mexico City,Mexico City,Mexico",CRISPR,Novel Science and Technology Issues,es
+46,Spanish,"San Jose,San Jose Province,Costa Rica",CRISPR,Novel Science and Technology Issues,es
+48,Spanish,"Madrid,Community of Madrid,Spain",plegamiento de proteínas,Novel Science and Technology Issues,es
+48,Spanish,"Mexico City,Mexico City,Mexico",plegamiento de proteínas,Novel Science and Technology Issues,es
+48,Spanish,"San Jose,San Jose Province,Costa Rica",plegamiento de proteínas,Novel Science and Technology Issues,es
+49,Spanish,"Madrid,Community of Madrid,Spain",agujero negro,Novel Science and Technology Issues,es
+49,Spanish,"Mexico City,Mexico City,Mexico",agujero negro,Novel Science and Technology Issues,es
+49,Spanish,"San Jose,San Jose Province,Costa Rica",agujero negro,Novel Science and Technology Issues,es
+52,Spanish,"Madrid,Community of Madrid,Spain",Mutaciones,Novel Science and Technology Issues,es
+52,Spanish,"Mexico City,Mexico City,Mexico",Mutaciones,Novel Science and Technology Issues,es
+52,Spanish,"San Jose,San Jose Province,Costa Rica",Mutaciones,Novel Science and Technology Issues,es
+87,Spanish,"Madrid,Community of Madrid,Spain",Vehículo autónomo,Novel Science and Technology Issues,es
+87,Spanish,"Mexico City,Mexico City,Mexico",Vehículo autónomo,Novel Science and Technology Issues,es
+87,Spanish,"San Jose,San Jose Province,Costa Rica",Vehículo autónomo,Novel Science and Technology Issues,es
+73-B,Spanish,"Madrid,Community of Madrid,Spain",El calentamiento global es mentira,Conspiracy Theories,es
+73-B,Spanish,"Mexico City,Mexico City,Mexico",El calentamiento global es mentira,Conspiracy Theories,es
+73-B,Spanish,"San Jose,San Jose Province,Costa Rica",El calentamiento global es mentira,Conspiracy Theories,es
+74-B,Spanish,"Madrid,Community of Madrid,Spain",El cambio climático es mentira,Conspiracy Theories,es
+74-B,Spanish,"Mexico City,Mexico City,Mexico",El cambio climático es mentira,Conspiracy Theories,es
+74-B,Spanish,"San Jose,San Jose Province,Costa Rica",El cambio climático es mentira,Conspiracy Theories,es
+77-B,Spanish,"Madrid,Community of Madrid,Spain",las vacunas causan autismo,Conspiracy Theories,es
+77-B,Spanish,"Mexico City,Mexico City,Mexico",las vacunas causan autismo,Conspiracy Theories,es
+77-B,Spanish,"San Jose,San Jose Province,Costa Rica",las vacunas causan autismo,Conspiracy Theories,es
+79-B,Spanish,"Madrid,Community of Madrid,Spain",la Tierra es plana,Conspiracy Theories,es
+79-B,Spanish,"Mexico City,Mexico City,Mexico",la Tierra es plana,Conspiracy Theories,es
+79-B,Spanish,"San Jose,San Jose Province,Costa Rica",la Tierra es plana,Conspiracy Theories,es
+80-B,Spanish,"Madrid,Community of Madrid,Spain",La humanidad nunca llegó a la luna,Conspiracy Theories,es
+80-B,Spanish,"Mexico City,Mexico City,Mexico",La humanidad nunca llegó a la luna,Conspiracy Theories,es
+80-B,Spanish,"San Jose,San Jose Province,Costa Rica",La humanidad nunca llegó a la luna,Conspiracy Theories,es
+5,Swahili,"Nairobi,Nairobi County,Kenya",Mazingira,Canonical Scientific Issues,sw
+5,Swahili,"Dodoma,Dodoma Region,Tanzania",Mazingira,Canonical Scientific Issues,sw
+6,Swahili,"Nairobi,Nairobi County,Kenya",Mfumo wa ikolojia,Canonical Scientific Issues,sw
+6,Swahili,"Dodoma,Dodoma Region,Tanzania",Mfumo wa ikolojia,Canonical Scientific Issues,sw
+8,Swahili,"Nairobi,Nairobi County,Kenya",Uchafuzi,Canonical Scientific Issues,sw
+8,Swahili,"Dodoma,Dodoma Region,Tanzania",Uchafuzi,Canonical Scientific Issues,sw
+12,Swahili,"Nairobi,Nairobi County,Kenya",Kuvu,Canonical Scientific Issues,sw
+12,Swahili,"Dodoma,Dodoma Region,Tanzania",Kuvu,Canonical Scientific Issues,sw
+13,Swahili,"Nairobi,Nairobi County,Kenya",Mamalia,Canonical Scientific Issues,sw
+13,Swahili,"Dodoma,Dodoma Region,Tanzania",Mamalia,Canonical Scientific Issues,sw
+16,Swahili,"Nairobi,Nairobi County,Kenya",Suluhisho,Canonical Scientific Issues,sw
+16,Swahili,"Dodoma,Dodoma Region,Tanzania",Suluhisho,Canonical Scientific Issues,sw
+20,Swahili,"Nairobi,Nairobi County,Kenya",Atomi,Canonical Scientific Issues,sw
+20,Swahili,"Dodoma,Dodoma Region,Tanzania",Atomi,Canonical Scientific Issues,sw
+28,Swahili,"Nairobi,Nairobi County,Kenya",Nishati,Canonical Scientific Issues,sw
+28,Swahili,"Dodoma,Dodoma Region,Tanzania",Nishati,Canonical Scientific Issues,sw
+29,Swahili,"Nairobi,Nairobi County,Kenya",Uzito,Canonical Scientific Issues,sw
+29,Swahili,"Dodoma,Dodoma Region,Tanzania",Uzito,Canonical Scientific Issues,sw
+35,Swahili,"Nairobi,Nairobi County,Kenya",Mfumo wa jua,Canonical Scientific Issues,sw
+35,Swahili,"Dodoma,Dodoma Region,Tanzania",Mfumo wa jua,Canonical Scientific Issues,sw
+38,Swahili,"Nairobi,Nairobi County,Kenya",Mageuzi,Canonical Scientific Issues,sw
+38,Swahili,"Dodoma,Dodoma Region,Tanzania",Mageuzi,Canonical Scientific Issues,sw
+53,Swahili,"Nairobi,Nairobi County,Kenya",Utapiamlo,Socio-Scientific Isuues,sw
+53,Swahili,"Dodoma,Dodoma Region,Tanzania",Utapiamlo,Socio-Scientific Isuues,sw
+54,Swahili,"Nairobi,Nairobi County,Kenya",Usalama wa chakula,Socio-Scientific Isuues,sw
+54,Swahili,"Dodoma,Dodoma Region,Tanzania",Usalama wa chakula,Socio-Scientific Isuues,sw
+56,Swahili,"Nairobi,Nairobi County,Kenya",Kalori,Socio-Scientific Isuues,sw
+56,Swahili,"Dodoma,Dodoma Region,Tanzania",Kalori,Socio-Scientific Isuues,sw
+58,Swahili,"Nairobi,Nairobi County,Kenya",Nishati mbadala,Socio-Scientific Isuues,sw
+58,Swahili,"Dodoma,Dodoma Region,Tanzania",Nishati mbadala,Socio-Scientific Isuues,sw
+59,Swahili,"Nairobi,Nairobi County,Kenya",Mabadiliko ya tabianchi,Socio-Scientific Isuues,sw
+59,Swahili,"Dodoma,Dodoma Region,Tanzania",Mabadiliko ya tabianchi,Socio-Scientific Isuues,sw
+65,Swahili,"Nairobi,Nairobi County,Kenya",Uchafuzi wa udongo,Socio-Scientific Isuues,sw
+65,Swahili,"Dodoma,Dodoma Region,Tanzania",Uchafuzi wa udongo,Socio-Scientific Isuues,sw
+66,Swahili,"Nairobi,Nairobi County,Kenya",Gesijoto,Socio-Scientific Isuues,sw
+66,Swahili,"Dodoma,Dodoma Region,Tanzania",Gesijoto,Socio-Scientific Isuues,sw
+68,Swahili,"Nairobi,Nairobi County,Kenya",Maambukizi,Socio-Scientific Isuues,sw
+68,Swahili,"Dodoma,Dodoma Region,Tanzania",Maambukizi,Socio-Scientific Isuues,sw
+70,Swahili,"Nairobi,Nairobi County,Kenya",Mafuriko,Socio-Scientific Isuues,sw
+70,Swahili,"Dodoma,Dodoma Region,Tanzania",Mafuriko,Socio-Scientific Isuues,sw
+71,Swahili,"Nairobi,Nairobi County,Kenya",Ukame,Socio-Scientific Isuues,sw
+71,Swahili,"Dodoma,Dodoma Region,Tanzania",Ukame,Socio-Scientific Isuues,sw
+39,Swahili,"Nairobi,Nairobi County,Kenya",PCR,Novel Science and Technology Issues,sw
+39,Swahili,"Dodoma,Dodoma Region,Tanzania",PCR,Novel Science and Technology Issues,sw
+42,Swahili,"Nairobi,Nairobi County,Kenya",mRNA,Novel Science and Technology Issues,sw
+42,Swahili,"Dodoma,Dodoma Region,Tanzania",mRNA,Novel Science and Technology Issues,sw
+43,Swahili,"Nairobi,Nairobi County,Kenya",Jinomu,Novel Science and Technology Issues,sw
+43,Swahili,"Dodoma,Dodoma Region,Tanzania",Jinomu,Novel Science and Technology Issues,sw
+44,Swahili,"Nairobi,Nairobi County,Kenya",Mirihi,Novel Science and Technology Issues,sw
+44,Swahili,"Dodoma,Dodoma Region,Tanzania",Mirihi,Novel Science and Technology Issues,sw
+45,Swahili,"Nairobi,Nairobi County,Kenya",Asterohidi,Novel Science and Technology Issues,sw
+45,Swahili,"Dodoma,Dodoma Region,Tanzania",Asterohidi,Novel Science and Technology Issues,sw
+46,Swahili,"Nairobi,Nairobi County,Kenya",CRISPR,Novel Science and Technology Issues,sw
+46,Swahili,"Dodoma,Dodoma Region,Tanzania",CRISPR,Novel Science and Technology Issues,sw
+48,Swahili,"Nairobi,Nairobi County,Kenya",Kukunja Protini,Novel Science and Technology Issues,sw
+48,Swahili,"Dodoma,Dodoma Region,Tanzania",Kukunja Protini,Novel Science and Technology Issues,sw
+49,Swahili,"Nairobi,Nairobi County,Kenya",Shimo nyeusi,Novel Science and Technology Issues,sw
+49,Swahili,"Dodoma,Dodoma Region,Tanzania",Shimo nyeusi,Novel Science and Technology Issues,sw
+52,Swahili,"Nairobi,Nairobi County,Kenya",Mabadiliko,Novel Science and Technology Issues,sw
+52,Swahili,"Dodoma,Dodoma Region,Tanzania",Mabadiliko,Novel Science and Technology Issues,sw
+87,Swahili,"Nairobi,Nairobi County,Kenya",Gari la kujiendesha,Novel Science and Technology Issues,sw
+87,Swahili,"Dodoma,Dodoma Region,Tanzania",Gari la kujiendesha,Novel Science and Technology Issues,sw
+73-B,Swahili,"Nairobi,Nairobi County,Kenya","Ongezeko la joto duniani
+ ni uongo",Conspiracy theories,sw
+73-B,Swahili,"Dodoma,Dodoma Region,Tanzania","Ongezeko la joto duniani
+ ni uongo",Conspiracy theories,sw
+74-B,Swahili,"Nairobi,Nairobi County,Kenya",mabadiliko ya hali ya hewa uongo,Conspiracy theories,sw
+74-B,Swahili,"Dodoma,Dodoma Region,Tanzania",mabadiliko ya hali ya hewa uongo,Conspiracy theories,sw
+77-B,Swahili,"Nairobi,Nairobi County,Kenya",Chanjo za tawahudi,Conspiracy theories,sw
+77-B,Swahili,"Dodoma,Dodoma Region,Tanzania",Chanjo za tawahudi,Conspiracy theories,sw
+79-B,Swahili,"Nairobi,Nairobi County,Kenya",Dunia tambarare,Conspiracy theories,sw
+79-B,Swahili,"Dodoma,Dodoma Region,Tanzania",Dunia tambarare,Conspiracy theories,sw
+80-B,Swahili,"Nairobi,Nairobi County,Kenya",Mwezi kutua bandia,Conspiracy theories,sw
+80-B,Swahili,"Dodoma,Dodoma Region,Tanzania",Mwezi kutua bandia,Conspiracy theories,sw
+39,Taiwanese,"Taipei City,Taiwan",????,Novel Science and Technology Issues,tw
+42,Taiwanese,"Taipei City,Taiwan",mRNA??,Novel Science and Technology Issues,tw
+43,Taiwanese,"Taipei City,Taiwan",???,Novel Science and Technology Issues,tw
+44,Taiwanese,"Taipei City,Taiwan",??,Novel Science and Technology Issues,tw
+45,Taiwanese,"Taipei City,Taiwan",???,Novel Science and Technology Issues,tw
+46,Taiwanese,"Taipei City,Taiwan",????,Novel Science and Technology Issues,tw
+48,Taiwanese,"Taipei City,Taiwan",?????,Novel Science and Technology Issues,tw
+49,Taiwanese,"Taipei City,Taiwan",??,Novel Science and Technology Issues,tw
+52,Taiwanese,"Taipei City,Taiwan",??,Novel Science and Technology Issues,tw
+87,Taiwanese,"Taipei City,Taiwan",??????,Novel Science and Technology Issues,tw
+73-B,Taiwanese,"Taipei City,Taiwan",??????,Conspiracy theories,tw
+74-B,Taiwanese,"Taipei City,Taiwan",??????,Conspiracy theories,tw
+77-B,Taiwanese,"Taipei City,Taiwan",?????,Conspiracy theories,tw
+79-B,Taiwanese,"Taipei City,Taiwan",???,Conspiracy theories,tw
+80-B,Taiwanese,"Taipei City,Taiwan",????,Conspiracy theories,tw
+5,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+6,Taiwanese,"Taipei City,Taiwan",????,Canonical Scientific Issues,tw
+8,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+12,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+13,Taiwanese,"Taipei City,Taiwan",???,Canonical Scientific Issues,tw
+16,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+20,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+28,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+29,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+35,Taiwanese,"Taipei City,Taiwan",???,Canonical Scientific Issues,tw
+38,Taiwanese,"Taipei City,Taiwan",??,Canonical Scientific Issues,tw
+53,Taiwanese,"Taipei City,Taiwan",????,Socio-Scientific Isuues,tw
+54,Taiwanese,"Taipei City,Taiwan",????,Socio-Scientific Isuues,tw
+56,Taiwanese,"Taipei City,Taiwan",???,Socio-Scientific Isuues,tw
+58,Taiwanese,"Taipei City,Taiwan",????,Socio-Scientific Isuues,tw
+59,Taiwanese,"Taipei City,Taiwan",????,Socio-Scientific Isuues,tw
+65,Taiwanese,"Taipei City,Taiwan",????,Socio-Scientific Isuues,tw
+66,Taiwanese,"Taipei City,Taiwan",????,Socio-Scientific Isuues,tw
+68,Taiwanese,"Taipei City,Taiwan",??,Socio-Scientific Isuues,tw
+70,Taiwanese,"Taipei City,Taiwan",??,Socio-Scientific Isuues,tw
+71,Taiwanese,"Taipei City,Taiwan",??,Socio-Scientific Isuues,tw
+5,Turkish,"Ankara,Ankara,Turkey",Çevre,Canonical Scientific Issues,tr
+6,Turkish,"Ankara,Ankara,Turkey",Ekosistem,Canonical Scientific Issues,tr
+8,Turkish,"Ankara,Ankara,Turkey",Kirlilik,Canonical Scientific Issues,tr
+12,Turkish,"Ankara,Ankara,Turkey",Mantar,Canonical Scientific Issues,tr
+13,Turkish,"Ankara,Ankara,Turkey",Memeli,Canonical Scientific Issues,tr
+16,Turkish,"Ankara,Ankara,Turkey",Çözelti,Canonical Scientific Issues,tr
+20,Turkish,"Ankara,Ankara,Turkey",Atom,Canonical Scientific Issues,tr
+28,Turkish,"Ankara,Ankara,Turkey",Enerji,Canonical Scientific Issues,tr
+29,Turkish,"Ankara,Ankara,Turkey",Kütle,Canonical Scientific Issues,tr
+35,Turkish,"Ankara,Ankara,Turkey",Güne? Sistemi,Canonical Scientific Issues,tr
+38,Turkish,"Ankara,Ankara,Turkey",Evrim,Canonical Scientific Issues,tr
+53,Turkish,"Ankara,Ankara,Turkey",Yetersiz Beslenme,Socio-Scientific Isuues,tr
+54,Turkish,"Ankara,Ankara,Turkey",G?da Güvenli?i,Socio-Scientific Isuues,tr
+56,Turkish,"Ankara,Ankara,Turkey",Kalori,Socio-Scientific Isuues,tr
+58,Turkish,"Ankara,Ankara,Turkey",Yenilenebilir Enerji,Socio-Scientific Isuues,tr
+59,Turkish,"Ankara,Ankara,Turkey",?klim De?i?ikli?i,Socio-Scientific Isuues,tr
+65,Turkish,"Ankara,Ankara,Turkey",Toprak Kirlili?i,Socio-Scientific Isuues,tr
+66,Turkish,"Ankara,Ankara,Turkey",Sera Gaz?,Socio-Scientific Isuues,tr
+68,Turkish,"Ankara,Ankara,Turkey",Enfeksiyon,Socio-Scientific Isuues,tr
+70,Turkish,"Ankara,Ankara,Turkey",Sel,Socio-Scientific Isuues,tr
+71,Turkish,"Ankara,Ankara,Turkey",Kurakl?k,Socio-Scientific Isuues,tr
+39,Turkish,"Ankara,Ankara,Turkey",PCR,Novel Science and Technology Issues,tr
+42,Turkish,"Ankara,Ankara,Turkey",mRNA,Novel Science and Technology Issues,tr
+43,Turkish,"Ankara,Ankara,Turkey",Genom,Novel Science and Technology Issues,tr
+44,Turkish,"Ankara,Ankara,Turkey",Mars,Novel Science and Technology Issues,tr
+45,Turkish,"Ankara,Ankara,Turkey",Asteroitler,Novel Science and Technology Issues,tr
+46,Turkish,"Ankara,Ankara,Turkey",CRISPR,Novel Science and Technology Issues,tr
+48,Turkish,"Ankara,Ankara,Turkey",Protein katlanmas?,Novel Science and Technology Issues,tr
+49,Turkish,"Ankara,Ankara,Turkey",Karadelik,Novel Science and Technology Issues,tr
+52,Turkish,"Ankara,Ankara,Turkey",Mutasyon,Novel Science and Technology Issues,tr
+87,Turkish,"Ankara,Ankara,Turkey",Otonom araba,Novel Science and Technology Issues,tr
+73-B,Turkish,"Ankara,Ankara,Turkey",Küresel ?s?nma bir aldatmaca,Conspiracy theories,tr
+74-B,Turkish,"Ankara,Ankara,Turkey",?klim de?i?ikli?i bir aldatmaca,Conspiracy theories,tr
+77-B,Turkish,"Ankara,Ankara,Turkey",A??lar Otizm,Conspiracy theories,tr
+79-B,Turkish,"Ankara,Ankara,Turkey",Düz dünya,Conspiracy theories,tr
+80-B,Turkish,"Ankara,Ankara,Turkey",Ay'a ini? gerçek de?il,Conspiracy theories,tr
+5,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????????,Canonical Scientific Issues,uk
+6,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????????,Canonical Scientific Issues,uk
+8,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????????,Canonical Scientific Issues,uk
+12,Ukrainian,"Kyiv,Kyiv city,Ukraine",????,Canonical Scientific Issues,uk
+13,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????,Canonical Scientific Issues,uk
+16,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????,Canonical Scientific Issues,uk
+20,Ukrainian,"Kyiv,Kyiv city,Ukraine",????,Canonical Scientific Issues,uk
+28,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????,Canonical Scientific Issues,uk
+29,Ukrainian,"Kyiv,Kyiv city,Ukraine",????,Canonical Scientific Issues,uk
+35,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????? ???????,Canonical Scientific Issues,uk
+38,Ukrainian,"Kyiv,Kyiv city,Ukraine",????????,Canonical Scientific Issues,uk
+53,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????????,Socio-Scientific Isuues,uk
+54,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????????? ???????,Socio-Scientific Isuues,uk
+56,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????,Socio-Scientific Isuues,uk
+58,Ukrainian,"Kyiv,Kyiv city,Ukraine",?????????????? ???????,Socio-Scientific Isuues,uk
+59,Ukrainian,"Kyiv,Kyiv city,Ukraine",????? ???????,Socio-Scientific Isuues,uk
+65,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????????? ??????,Socio-Scientific Isuues,uk
+66,Ukrainian,"Kyiv,Kyiv city,Ukraine",????????? ????,Socio-Scientific Isuues,uk
+68,Ukrainian,"Kyiv,Kyiv city,Ukraine",????????,Socio-Scientific Isuues,uk
+70,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????,Socio-Scientific Isuues,uk
+71,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????,Socio-Scientific Isuues,uk
+39,Ukrainian,"Kyiv,Kyiv city,Ukraine",???,Novel Science and Technology Issues,uk
+42,Ukrainian,"Kyiv,Kyiv city,Ukraine",????,Novel Science and Technology Issues,uk
+43,Ukrainian,"Kyiv,Kyiv city,Ukraine",?????,Novel Science and Technology Issues,uk
+44,Ukrainian,"Kyiv,Kyiv city,Ukraine",????,Novel Science and Technology Issues,uk
+45,Ukrainian,"Kyiv,Kyiv city,Ukraine",?????????,Novel Science and Technology Issues,uk
+46,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????,Novel Science and Technology Issues,uk
+48,Ukrainian,"Kyiv,Kyiv city,Ukraine",????????? ?????,Novel Science and Technology Issues,uk
+49,Ukrainian,"Kyiv,Kyiv city,Ukraine",????? ????,Novel Science and Technology Issues,uk
+52,Ukrainian,"Kyiv,Kyiv city,Ukraine",???????,Novel Science and Technology Issues,uk
+87,Ukrainian,"Kyiv,Kyiv city,Ukraine",?????????? ??????????,Novel Science and Technology Issues,uk
+73-B,Ukrainian,"Kyiv,Kyiv city,Ukraine",????????? ?????????? ?????,Conspiracy theories,uk
+74-B,Ukrainian,"Kyiv,Kyiv city,Ukraine",????? ??????? ?????,Conspiracy theories,uk
+77-B,Ukrainian,"Kyiv,Kyiv city,Ukraine",??????? ??????,Conspiracy theories,uk
+79-B,Ukrainian,"Kyiv,Kyiv city,Ukraine",?????? ?????,Conspiracy theories,uk
+80-B,Ukrainian,"Kyiv,Kyiv city,Ukraine",???? ??? ??????? ?? ??????,Conspiracy theories,uk
+73-B,Vietnamese,"Hanoi,Hanoi,Vietnam",trái ??t nóng lên l?a b?p,Conspiracy theories,vie
+74-B,Vietnamese,"Hanoi,Hanoi,Vietnam",bi?n ??i khí h?u l?a b?p,Conspiracy theories,vie
+77-B,Vietnamese,"Hanoi,Hanoi,Vietnam",v?c xin t? k?,Conspiracy theories,vie
+79-B,Vietnamese,"Hanoi,Hanoi,Vietnam",Trái ??t ph?ng,Conspiracy theories,vie
+80-B,Vietnamese,"Hanoi,Hanoi,Vietnam",??t chân lên M?t Tr?ng là gi?,Conspiracy theories,vie
+39,Vietnamese,"Hanoi,Hanoi,Vietnam",Xét nghi?m PCR,Novel Science and Technology Issues,vie
+42,Vietnamese,"Hanoi,Hanoi,Vietnam",RNA thông tin,Novel Science and Technology Issues,vie
+43,Vietnamese,"Hanoi,Hanoi,Vietnam",B? gen,Novel Science and Technology Issues,vie
+44,Vietnamese,"Hanoi,Hanoi,Vietnam",Sao H?a,Novel Science and Technology Issues,vie
+45,Vietnamese,"Hanoi,Hanoi,Vietnam",Ti?u hành tinh,Novel Science and Technology Issues,vie
+46,Vietnamese,"Hanoi,Hanoi,Vietnam",H? gen CRISPR,Novel Science and Technology Issues,vie
+48,Vietnamese,"Hanoi,Hanoi,Vietnam",Cu?n g?p protein,Novel Science and Technology Issues,vie
+49,Vietnamese,"Hanoi,Hanoi,Vietnam",H? ?en,Novel Science and Technology Issues,vie
+52,Vietnamese,"Hanoi,Hanoi,Vietnam",??t bi?n,Novel Science and Technology Issues,vie
+87,Vietnamese,"Hanoi,Hanoi,Vietnam",Xe t? hành,Novel Science and Technology Issues,vie
+5,Vietnamese,"Hanoi,Hanoi,Vietnam",Môi tr??ng,Canonical Scientific Issues,vie
+6,Vietnamese,"Hanoi,Hanoi,Vietnam",H? sinh thái,Canonical Scientific Issues,vie
+8,Vietnamese,"Hanoi,Hanoi,Vietnam",Ô nhi?m,Canonical Scientific Issues,vie
+12,Vietnamese,"Hanoi,Hanoi,Vietnam",N?m,Canonical Scientific Issues,vie
+13,Vietnamese,"Hanoi,Hanoi,Vietnam",Thú có vú/??ng v?t có vú,Canonical Scientific Issues,vie
+16,Vietnamese,"Hanoi,Hanoi,Vietnam",Dung d?ch,Canonical Scientific Issues,vie
+20,Vietnamese,"Hanoi,Hanoi,Vietnam",Nguyên t?,Canonical Scientific Issues,vie
+28,Vietnamese,"Hanoi,Hanoi,Vietnam",N?ng l??ng,Canonical Scientific Issues,vie
+29,Vietnamese,"Hanoi,Hanoi,Vietnam",Tr?ng l??ng,Canonical Scientific Issues,vie
+35,Vietnamese,"Hanoi,Hanoi,Vietnam",H? M?t Tr?i,Canonical Scientific Issues,vie
+38,Vietnamese,"Hanoi,Hanoi,Vietnam",Ti?n hóa,Canonical Scientific Issues,vie
+53,Vietnamese,"Hanoi,Hanoi,Vietnam",Suy dinh d??ng,Socio-Scientific Isuues,vie
+54,Vietnamese,"Hanoi,Hanoi,Vietnam",An ninh l??ng th?c,Socio-Scientific Isuues,vie
+56,Vietnamese,"Hanoi,Hanoi,Vietnam",Ca-lo,Socio-Scientific Isuues,vie
+58,Vietnamese,"Hanoi,Hanoi,Vietnam",N?ng l??ng tái t?o,Socio-Scientific Isuues,vie
+59,Vietnamese,"Hanoi,Hanoi,Vietnam",?m lên toàn c?u,Socio-Scientific Isuues,vie
+65,Vietnamese,"Hanoi,Hanoi,Vietnam",Ô nhi?m ??t,Socio-Scientific Isuues,vie
+66,Vietnamese,"Hanoi,Hanoi,Vietnam",Khí nhà kính,Socio-Scientific Isuues,vie
+68,Vietnamese,"Hanoi,Hanoi,Vietnam",Nhi?m trùng,Socio-Scientific Isuues,vie
+70,Vietnamese,"Hanoi,Hanoi,Vietnam",L?t,Socio-Scientific Isuues,vie
+71,Vietnamese,"Hanoi,Hanoi,Vietnam",H?n hán,Socio-Scientific Isuues,vie
+5,Zulu,"Cape Town,Western Cape,South Africa",Isimo-nhlalo,Canonical Scientific Issues,zu
+6,Zulu,"Cape Town,Western Cape,South Africa",Impila-ndawonye,Canonical Scientific Issues,zu
+8,Zulu,"Cape Town,Western Cape,South Africa",Ukunukubezeka,Canonical Scientific Issues,zu
+12,Zulu,"Cape Town,Western Cape,South Africa",Isikhunta,Canonical Scientific Issues,zu
+13,Zulu,"Cape Town,Western Cape,South Africa",Isilwane esincelisayo,Canonical Scientific Issues,zu
+16,Zulu,"Cape Town,Western Cape,South Africa",Ingxube,Canonical Scientific Issues,zu
+20,Zulu,"Cape Town,Western Cape,South Africa",I-athomu,Canonical Scientific Issues,zu
+28,Zulu,"Cape Town,Western Cape,South Africa",Amandla,Canonical Scientific Issues,zu
+29,Zulu,"Cape Town,Western Cape,South Africa",Isisindo,Canonical Scientific Issues,zu
+35,Zulu,"Cape Town,Western Cape,South Africa",Uhlelo-mkhathi,Canonical Scientific Issues,zu
+38,Zulu,"Cape Town,Western Cape,South Africa",Uguquko-simo lwemvelo,Canonical Scientific Issues,zu
+53,Zulu,"Cape Town,Western Cape,South Africa",Ukungondleki kahle,Socio-Scientific Isuues,zu
+54,Zulu,"Cape Town,Western Cape,South Africa",Ukutholakala kokudla okwaneleyo,Socio-Scientific Isuues,zu
+56,Zulu,"Cape Town,Western Cape,South Africa",Ikhalori,Socio-Scientific Isuues,zu
+58,Zulu,"Cape Town,Western Cape,South Africa",Amandla avuselelekayo,Socio-Scientific Isuues,zu
+59,Zulu,"Cape Town,Western Cape,South Africa",Ukushintsha kwesimo sezulu,Socio-Scientific Isuues,zu
+65,Zulu,"Cape Town,Western Cape,South Africa",Ukunukubezeka komhlabathi,Socio-Scientific Isuues,zu
+66,Zulu,"Cape Town,Western Cape,South Africa",Igesi ebamba ukushisa,Socio-Scientific Isuues,zu
+68,Zulu,"Cape Town,Western Cape,South Africa",Isifo,Socio-Scientific Isuues,zu
+70,Zulu,"Cape Town,Western Cape,South Africa",Isikhukhula,Socio-Scientific Isuues,zu
+71,Zulu,"Cape Town,Western Cape,South Africa",Isomiso,Socio-Scientific Isuues,zu
+39,Zulu,"Cape Town,Western Cape,South Africa",i-PCR,Novel Science and Technology Issues,zu
+42,Zulu,"Cape Town,Western Cape,South Africa",i-mRNA,Novel Science and Technology Issues,zu
+43,Zulu,"Cape Town,Western Cape,South Africa",iqoqwana eliphelele lolibofuzo,Novel Science and Technology Issues,zu
+44,Zulu,"Cape Town,Western Cape,South Africa",i-Mars,Novel Science and Technology Issues,zu
+45,Zulu,"Cape Town,Western Cape,South Africa",imihlaba emincane,Novel Science and Technology Issues,zu
+46,Zulu,"Cape Town,Western Cape,South Africa",i-CRISPR,Novel Science and Technology Issues,zu
+48,Zulu,"Cape Town,Western Cape,South Africa",ukugoqeka kwamaphrotheni,Novel Science and Technology Issues,zu
+49,Zulu,"Cape Town,Western Cape,South Africa",umgodi omnyama,Novel Science and Technology Issues,zu
+52,Zulu,"Cape Town,Western Cape,South Africa",Ukuguquka,Novel Science and Technology Issues,zu
+87,Zulu,"Cape Town,Western Cape,South Africa",Imoto ezishayela ngokwayo,Novel Science and Technology Issues,zu
+73-B,Zulu,"Cape Town,Western Cape,South Africa",ukufudumala kwembulunga yonke inkohliso,Conspiracy Theories,zu
+74-B,Zulu,"Cape Town,Western Cape,South Africa",ukuguquka kwesimo sezulu inkohliso,Conspiracy Theories,zu
+77-B,Zulu,"Cape Town,Western Cape,South Africa",imigomo ye-autism,Conspiracy Theories,zu
+79-B,Zulu,"Cape Town,Western Cape,South Africa",umhlaba oyisicaba,Conspiracy Theories,zu
+80-B,Zulu,"Cape Town,Western Cape,South Africa",Umgunyathi wokufika kwenyanga,Conspiracy Theories,zu
